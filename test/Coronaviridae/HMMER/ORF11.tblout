@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A4D6FWG0|A0A4D6FWG0_9GAMC -          MK359255_12          -           3.1e-117  393.3  12.2  3.4e-117  393.1  12.2   1.0   1   0   0   1   1   1   1 ORF11 OS=Canada goose coronavirus OX=2569586 PE=4 SV=1
+tr|A0A220T6M1|A0A220T6M1_9POXV -          MK359255_12          -               0.51   15.1   0.3       1.1   14.1   0.0   1.6   2   0   0   2   2   2   0 Alpha-amanitin target protein OS=Eptesipox virus OX=1329402 GN=EPTV-WA-170 PE=4 SV=1
+tr|A0A1V1FGX2|A0A1V1FGX2_9CAUD -          MK359255_12          -                3.1   12.6   0.9         7   11.4   0.1   1.8   1   1   0   2   2   2   0 Uncharacterized protein OS=Azobacteroides phage ProJPt-Bp1 OX=1920526 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      Coronaviridae/HMMER/MK359255_12.hmm
+# Target file:     ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta
+# Option settings: hmmsearch --tblout Coronaviridae/HMMER/MK359255_12.tblout --noali Coronaviridae/HMMER/MK359255_12.hmm ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta 
+# Current dir:     /Users/coco/Documents/paper3/PanPhylo/test
+# Date:            Wed Oct 11 21:57:09 2023
+# [ok]

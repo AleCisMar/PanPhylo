@@ -1,0 +1,50 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P11335|B_SPV4               -          M17988_4             -           5.8e-100  336.4   9.9  6.4e-100  336.2   9.9   1.0   1   0   0   1   1   1   1 Internal scaffolding protein ORF3 OS=Spiroplasma virus 4 OX=2928746 GN=ORF3 PE=3 SV=1
+tr|A0A2Z5CK35|A0A2Z5CK35_9VIRU -          M17988_4             -             0.0063   21.5   0.0    0.0091   21.0   0.0   1.3   1   0   0   1   1   1   1 Minor capsid protein OS=Alces alces faeces associated microvirus MP18 4940 OX=2219137 PE=4 SV=1
+tr|A0A4P8W4A4|A0A4P8W4A4_9VIRU -          M17988_4             -              0.043   18.8   2.9     0.054   18.4   2.9   1.2   1   0   0   1   1   1   0 Minor capsid protein OS=Capybara microvirus Cap1_SP_175 OX=2585404 PE=4 SV=1
+tr|A0A4D5ZLV8|A0A4D5ZLV8_9VIRU -          M17988_4             -              0.051   18.5   0.5     0.057   18.4   0.5   1.0   1   0   0   1   1   1   0 Phage protein OS=Streptococcus satellite phage Javan379 OX=2558669 GN=JavanS379_0002 PE=4 SV=1
+tr|A0A4P8W4R1|A0A4P8W4R1_9VIRU -          M17988_4             -              0.052   18.5   0.3      0.09   17.7   0.2   1.5   1   1   0   1   1   1   0 Minor capsid protein OS=Capybara microvirus Cap1_SP_158 OX=2585394 PE=4 SV=1
+tr|A0A4P8W6B1|A0A4P8W6B1_9VIRU -          M17988_4             -              0.091   17.7   0.1      0.16   17.0   0.0   1.5   1   1   0   1   1   1   0 Minor capsid protein OS=Capybara microvirus Cap3_SP_481 OX=2585469 PE=4 SV=1
+tr|A0A4V1FVP9|A0A4V1FVP9_9VIRU -          M17988_4             -               0.11   17.5   0.1      0.15   17.0   0.1   1.2   1   0   0   1   1   1   0 Minor capsid protein OS=Capybara microvirus Cap1_SP_143 OX=2585389 PE=4 SV=1
+tr|A0A4D5ZV19|A0A4D5ZV19_9VIRU -          M17988_4             -               0.17   16.9   1.0      0.23   16.4   0.8   1.2   1   1   0   1   1   1   0 Phage protein OS=Streptococcus satellite phage Javan729 OX=2558823 GN=JavanS729_0023 PE=4 SV=1
+tr|A0A067XQT6|A0A067XQT6_9CAUD -          M17988_4             -               0.17   16.9   0.1       0.2   16.6   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caulobacter phage Cr30 OX=1357714 PE=4 SV=1
+tr|A0A4D5ZWZ6|A0A4D5ZWZ6_9VIRU -          M17988_4             -               0.19   16.7   0.5      0.24   16.4   0.5   1.2   1   0   0   1   1   1   0 Phage protein OS=Streptococcus satellite phage Javan758 OX=2558853 GN=JavanS758_0017 PE=4 SV=1
+tr|A0A2Z5CK21|A0A2Z5CK21_9VIRU -          M17988_4             -               0.21   16.6   0.0      0.22   16.5   0.0   1.3   1   0   0   1   1   1   0 Minor capsid protein OS=Alces alces faeces associated microvirus MP10 5560 OX=2219133 PE=4 SV=1
+tr|A0A4D5ZZZ2|A0A4D5ZZZ2_9VIRU -          M17988_4             -               0.24   16.3   0.6      0.33   15.9   0.6   1.3   1   0   0   1   1   1   0 Phage protein OS=Streptococcus satellite phage Javan743 OX=2558837 GN=JavanS743_0024 PE=4 SV=1
+tr|A0A4D5ZUM2|A0A4D5ZUM2_9VIRU -          M17988_4             -               0.28   16.1   0.4      0.45   15.5   0.4   1.3   1   0   0   1   1   1   0 Phage protein OS=Streptococcus satellite phage Javan736 OX=2558830 GN=JavanS736_0019 PE=4 SV=1
+tr|A0A4D5ZW01|A0A4D5ZW01_9VIRU -          M17988_4             -               0.35   15.8   1.0      0.46   15.4   1.0   1.2   1   0   0   1   1   1   0 Phage protein OS=Streptococcus satellite phage Javan756 OX=2558851 GN=JavanS756_0013 PE=4 SV=1
+tr|A0A4D5ZW18|A0A4D5ZW18_9VIRU -          M17988_4             -               0.37   15.7   0.4      0.43   15.5   0.4   1.2   1   0   0   1   1   1   0 Phage protein OS=Streptococcus satellite phage Javan757 OX=2558852 GN=JavanS757_0016 PE=4 SV=1
+tr|A0A2I2L530|A0A2I2L530_9PHYC -          M17988_4             -               0.39   15.7   1.5      0.63   15.0   0.7   1.7   1   1   1   2   2   2   0 Synaptobrevin/VAMP-like protein OS=Orpheovirus IHUMI-LCC2 OX=2023057 GN=ORPV_744 PE=4 SV=1
+tr|A0A4D5ZTX8|A0A4D5ZTX8_9VIRU -          M17988_4             -               0.45   15.5   0.7      0.56   15.2   0.7   1.2   1   0   0   1   1   1   0 Phage protein OS=Streptococcus satellite phage Javan727 OX=2558821 GN=JavanS727_0022 PE=4 SV=1
+tr|A0A4D5ZWT7|A0A4D5ZWT7_9VIRU -          M17988_4             -               0.45   15.5   0.7      0.56   15.2   0.7   1.2   1   0   0   1   1   1   0 Phage protein OS=Streptococcus satellite phage Javan755 OX=2558850 GN=JavanS755_0020 PE=4 SV=1
+tr|A0A4D5ZJP7|A0A4D5ZJP7_9VIRU -          M17988_4             -               0.54   15.2   0.8      0.71   14.8   0.8   1.2   1   0   0   1   1   1   0 Phage protein OS=Streptococcus satellite phage Javan307 OX=2558626 GN=JavanS307_0003 PE=4 SV=1
+tr|A0A4D5ZJ39|A0A4D5ZJ39_9VIRU -          M17988_4             -               0.59   15.1   0.9      0.74   14.8   0.9   1.2   1   0   0   1   1   1   0 Phage protein OS=Streptococcus satellite phage Javan296 OX=2558615 GN=JavanS296_0005 PE=4 SV=1
+tr|A0A4P8W7Y7|A0A4P8W7Y7_9VIRU -          M17988_4             -               0.64   15.0   0.0      0.94   14.4   0.0   1.4   1   1   0   1   1   1   0 Minor capsid protein OS=Capybara microvirus Cap1_SP_141 OX=2585387 PE=4 SV=1
+tr|A0A4D5ZJD0|A0A4D5ZJD0_9VIRU -          M17988_4             -               0.84   14.6   0.5      0.98   14.4   0.5   1.2   1   0   0   1   1   1   0 Phage protein OS=Streptococcus satellite phage Javan313 OX=2558629 GN=JavanS313_0003 PE=4 SV=1
+tr|A0A4D5ZM73|A0A4D5ZM73_9VIRU -          M17988_4             -               0.91   14.5   0.3       1.2   14.1   0.3   1.2   1   0   0   1   1   1   0 Phage protein OS=Streptococcus satellite phage Javan267 OX=2558598 GN=JavanS267_0011 PE=4 SV=1
+tr|A0A4D5ZUH3|A0A4D5ZUH3_9VIRU -          M17988_4             -                  1   14.3   0.4       1.5   13.8   0.4   1.2   1   0   0   1   1   1   0 Phage protein OS=Streptococcus satellite phage Javan720 OX=2558814 GN=JavanS720_0022 PE=4 SV=1
+tr|A0A4D5ZMY5|A0A4D5ZMY5_9VIRU -          M17988_4             -                1.1   14.3   0.1       1.4   13.9   0.1   1.2   1   0   0   1   1   1   0 Phage protein OS=Streptococcus satellite phage Javan364 OX=2558662 GN=JavanS364_0005 PE=4 SV=1
+tr|A0A4D5ZMU9|A0A4D5ZMU9_9VIRU -          M17988_4             -                1.1   14.2   0.4       1.3   14.0   0.4   1.2   1   0   0   1   1   1   0 Phage protein OS=Streptococcus satellite phage Javan434 OX=2558702 GN=JavanS434_0002 PE=4 SV=1
+tr|A0A4D5ZS53|A0A4D5ZS53_9VIRU -          M17988_4             -                1.4   13.8   0.3       1.9   13.5   0.3   1.2   1   0   0   1   1   1   0 Phage protein OS=Streptococcus satellite phage Javan62 OX=2558787 GN=JavanS62_0005 PE=4 SV=1
+tr|A0A4D5ZJN0|A0A4D5ZJN0_9VIRU -          M17988_4             -                1.4   13.8   0.4       1.7   13.6   0.4   1.2   1   0   0   1   1   1   0 Phage protein OS=Streptococcus satellite phage Javan332 OX=2558642 GN=JavanS332_0006 PE=4 SV=1
+tr|A0A4P8W5K6|A0A4P8W5K6_9VIRU -          M17988_4             -                1.8   13.5   0.1       2.3   13.2   0.1   1.1   1   0   0   1   1   1   0 Minor capsid protein OS=Capybara microvirus Cap1_SP_168 OX=2585403 PE=4 SV=1
+tr|A0A2L0WUY2|A0A2L0WUY2_9VIRU -          M17988_4             -                  2   13.4   0.2       2.6   13.0   0.2   1.2   1   0   0   1   1   1   0 VP3 OS=Gokushovirus MK-2017 OX=2073143 PE=4 SV=1
+tr|A0A4V1FW03|A0A4V1FW03_9VIRU -          M17988_4             -                2.1   13.3   0.0       2.7   12.9   0.0   1.2   1   0   0   1   1   1   0 Internal scaffolding protein OS=Tortoise microvirus 68 OX=2583174 PE=4 SV=1
+tr|A0A7S5R3I0|A0A7S5R3I0_9CAUD -          M17988_4             -                2.3   13.2   0.1       4.2   12.3   0.1   1.4   1   0   0   1   1   1   0 DUF1828 domain-containing protein OS=Rhizobium phage RHph_N28_2 OX=2509584 GN=EVB88_061 PE=4 SV=1
+tr|A0A7M1RV26|A0A7M1RV26_9CAUD -          M17988_4             -                3.4   12.6   0.0       4.6   12.2   0.0   1.2   1   0   0   1   1   1   0 Holin OS=uncultured phage cr131_1 OX=2772093 PE=4 SV=1
+tr|B5WZK7|B5WZK7_9CAUD         -          M17988_4             -                3.6   12.5   2.6       7.8   11.4   0.3   2.2   2   1   0   2   2   2   0 Uncharacterized protein OS=Staphylococcus phage phi2958PVL OX=430796 PE=4 SV=1
+tr|A0A7D7EZ25|A0A7D7EZ25_9CAUD -          M17988_4             -                3.7   12.5   0.0       6.9   11.6   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Proteus phage 10 OX=2759182 PE=4 SV=1
+tr|A0A1C9EI29|A0A1C9EI29_9CAUD -          M17988_4             -                  6   11.8   0.0        10   11.1   0.0   1.3   1   0   0   1   1   1   0 DNA polymerase III sliding clamp OS=Gordonia phage Nyceirae OX=1887651 GN=49 PE=4 SV=1
+tr|A0A8F3E7R8|A0A8F3E7R8_9CAUD -          M17988_4             -                6.7   11.7   0.0        11   11.0   0.0   1.3   1   0   0   1   1   1   0 FtsK-like DNA translocase OS=Gordonia phage Phishy OX=2836093 GN=48 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      Microviridae/HMMER/M17988_4.hmm
+# Target file:     ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta
+# Option settings: hmmsearch --tblout Microviridae/HMMER/M17988_4.tblout --noali Microviridae/HMMER/M17988_4.hmm ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta 
+# Current dir:     /Users/coco/Documents/paper3/PanPhylo/test
+# Date:            Wed Oct 11 21:02:55 2023
+# [ok]

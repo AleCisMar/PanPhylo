@@ -1,0 +1,54 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|A3EXG7|NS3_BCHK9            -          27                   -           4.8e-116  390.6  14.6  5.3e-116  390.5  14.6   1.0   1   0   0   1   1   1   1 Non-structural protein 3 OS=Bat coronavirus HKU9 OX=694006 GN=3 PE=4 SV=1
+tr|A0A1B3Q5W7|A0A1B3Q5W7_9BETC -          27                   -           9.8e-114  383.1   2.0  1.1e-113  382.9   2.0   1.0   1   0   0   1   1   1   1 NS3 protein OS=Rousettus bat coronavirus OX=1892416 GN=NS3 PE=4 SV=1
+tr|A0A2Z4EVQ5|A0A2Z4EVQ5_9NIDO -          27                   -           1.2e-108  366.5  14.7  1.3e-108  366.3  14.7   1.0   1   0   0   1   1   1   1 ORF3 OS=Bat coronavirus OX=1508220 PE=4 SV=1
+tr|E0ZN37|E0ZN37_BCHK9         -          27                   -            7.3e-80  272.4  11.0   8.2e-80  272.2  11.0   1.0   1   0   0   1   1   1   1 CoV 3a-like viroporin CD domain-containing protein OS=Bat coronavirus HKU9-5-1 OX=875614 GN=NS3 PE=4 SV=1
+tr|A3EXJ1|A3EXJ1_BCHK9         -          27                   -            1.2e-76  261.9   4.7   1.3e-76  261.7   4.7   1.0   1   0   0   1   1   1   1 Uncharacterized protein NS3 OS=Bat coronavirus HKU9-4 OX=424370 GN=NS3 PE=4 SV=1
+tr|A0A088DI21|A0A088DI21_9BETC -          27                   -              2e-06   32.3   8.3   6.4e-06   30.6   8.3   1.7   1   1   0   1   1   1   1 Uncharacterized protein OS=Bat Hp-betacoronavirus/Zhejiang2013 OX=1541205 PE=4 SV=1
+sp|A3EXD4|NS3D_BCHK5           -          27                   -            2.8e-05   28.5   8.1   3.6e-05   28.2   8.1   1.1   1   0   0   1   1   1   1 Non-structural protein 3d OS=Bat coronavirus HKU5 OX=694008 GN=3d PE=4 SV=1
+tr|A0A023PTR5|A0A023PTR5_SARS  -          27                   -            0.00082   23.7   2.0    0.0011   23.3   2.0   1.2   1   0   0   1   1   1   1 Protein 3 OS=Rhinolophus affinis coronavirus OX=1487703 PE=4 SV=1
+tr|A3EXG1|A3EXG1_BCHK5         -          27                   -            0.00091   23.6   9.0    0.0011   23.3   9.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein NS3d OS=Bat coronavirus HKU5-5 OX=424366 GN=NS3d PE=4 SV=1
+tr|R9QTJ3|R9QTJ3_SARS          -          27                   -             0.0067   20.8   1.7    0.0094   20.3   1.7   1.3   1   0   0   1   1   1   1 ORF3 protein OS=Bat coronavirus Cp/Yunnan2011 OX=1283333 PE=4 SV=1
+tr|A0A0U1UZ44|A0A0U1UZ44_SARS  -          27                   -             0.0098   20.2   3.0     0.014   19.7   3.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=BtRf-BetaCoV/HeB2013 OX=1503296 PE=4 SV=1
+sp|P0DTC3|AP3A_SARS2           -          27                   -              0.023   19.0   0.9     0.031   18.6   0.9   1.3   1   0   0   1   1   1   0 ORF3a protein OS=Severe acute respiratory syndrome coronavirus 2 OX=2697049 GN=3a PE=1 SV=1
+sp|P59632|AP3A_SARS            -          27                   -              0.031   18.6   1.7     0.041   18.2   1.7   1.2   1   0   0   1   1   1   0 ORF3a protein OS=Severe acute respiratory syndrome coronavirus OX=694009 GN=3a PE=1 SV=1
+tr|Q6JH37|Q6JH37_SARS          -          27                   -              0.031   18.6   1.7     0.041   18.2   1.7   1.2   1   0   0   1   1   1   0 3a protein OS=SARS coronavirus Sino3-11 OX=255729 PE=4 SV=1
+tr|Q6RD19|Q6RD19_SARS          -          27                   -              0.031   18.6   1.7     0.041   18.2   1.7   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=SARS coronavirus TW4 OX=258967 PE=4 SV=1
+tr|Q6VA99|Q6VA99_SARS          -          27                   -              0.031   18.6   1.7     0.041   18.2   1.7   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=SARS coronavirus CUHK-AG01 OX=239241 PE=4 SV=1
+tr|H9AA37|H9AA37_9BETC         -          27                   -              0.047   18.0   4.2     0.057   17.7   4.2   1.1   1   0   0   1   1   1   0 Membrane protein OS=Rabbit coronavirus HKU14 OX=1160968 GN=M PE=3 SV=1
+tr|A4ZU02|A4ZU02_9BETC         -          27                   -              0.072   17.4   5.1     0.087   17.1   5.1   1.1   1   0   0   1   1   1   0 Membrane protein OS=Bovine coronavirus R-AH65 OX=422214 GN=M PE=3 SV=1
+sp|A3EX98|NS3D_BCHK4           -          27                   -               0.13   16.5   6.8      0.15   16.3   6.8   1.1   1   0   0   1   1   1   0 Non-structural protein 3d OS=Bat coronavirus HKU4 OX=694007 GN=3d PE=4 SV=1
+tr|A3EXA7|A3EXA7_BCHK4         -          27                   -               0.13   16.5   6.8      0.15   16.3   6.8   1.1   1   0   0   1   1   1   0 Uncharacterized protein NS3d OS=Bat coronavirus HKU4-2 OX=424360 GN=NS3d PE=4 SV=1
+tr|D9J206|D9J206_9ALPC         -          27                   -               0.15   16.3   0.6      0.24   15.7   0.6   1.4   1   1   0   1   1   1   0 Membrane protein OS=Mink coronavirus strain WD1133 OX=766792 GN=M PE=3 SV=1
+tr|A0A0U1WHM8|A0A0U1WHM8_BCHK4 -          27                   -               0.17   16.1   7.2       0.2   15.9   7.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=BtTp-BetaCoV/GX2012 OX=1503304 PE=4 SV=1
+sp|Q0ZME4|VME1_CVHN5           -          27                   -                0.2   16.0   6.2      0.24   15.6   6.2   1.1   1   0   0   1   1   1   0 Membrane protein OS=Human coronavirus HKU1 (isolate N5) OX=443241 GN=M PE=3 SV=1
+sp|Q14EA7|VME1_CVHN2           -          27                   -               0.22   15.8   6.1      0.27   15.5   6.1   1.1   1   0   0   1   1   1   0 Membrane protein OS=Human coronavirus HKU1 (isolate N2) OX=443240 GN=M PE=3 SV=1
+sp|Q01455|VME1_CVHOC           -          27                   -               0.48   14.7   5.8       0.6   14.4   5.8   1.1   1   0   0   1   1   1   0 Membrane protein OS=Human coronavirus OC43 OX=31631 GN=M PE=1 SV=1
+tr|B0LJR3|B0LJR3_9ALPC         -          27                   -               0.68   14.2   0.9       1.1   13.5   0.9   1.4   1   0   0   1   1   1   0 Membrane protein OS=Feline coronavirus OX=12663 GN=M PE=3 SV=1
+tr|A0A0U2TVR6|A0A0U2TVR6_9ALPC -          27                   -                  1   13.6   0.5       1.5   13.1   0.5   1.4   1   0   0   1   1   1   0 Membrane protein OS=Swine enteric coronavirus OX=1766554 GN=M PE=3 SV=1
+tr|A0A0U1WHE8|A0A0U1WHE8_9ALPC -          27                   -                1.2   13.4   4.0       1.5   13.0   4.0   1.1   1   0   0   1   1   1   0 Membrane protein OS=BtMr-AlphaCoV/SAX2011 OX=1503289 GN=M PE=3 SV=1
+tr|K4ERU9|K4ERU9_9BBAC         -          27                   -                1.2   13.4   7.9       1.3   13.2   7.9   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Epinotia aporema granulovirus OX=166056 PE=4 SV=1
+sp|P25878|VME1_FIPV            -          27                   -                1.3   13.2   0.7         2   12.7   0.7   1.3   1   0   0   1   1   1   0 Membrane protein OS=Feline coronavirus (strain FIPV WSU-79/1146) OX=33734 GN=M PE=1 SV=1
+tr|C6GHC0|C6GHC0_9ALPC         -          27                   -                1.5   13.1   0.6         2   12.7   0.6   1.2   1   0   0   1   1   1   0 Membrane protein OS=Feline coronavirus UU4 OX=454952 GN=M PE=3 SV=1
+tr|A0A0U1UZB2|A0A0U1UZB2_9ALPC -          27                   -                2.1   12.6   3.6       3.2   12.0   3.6   1.2   1   0   0   1   1   1   0 Membrane protein OS=BtMf-AlphaCoV/GD2012 OX=1503280 GN=M PE=3 SV=1
+tr|A0A0U1WJV1|A0A0U1WJV1_9ALPC -          27                   -                2.2   12.5   3.6       3.3   11.9   3.6   1.2   1   0   0   1   1   1   0 Membrane protein OS=BtMf-AlphaCoV/FJ2012 OX=1503279 GN=M PE=3 SV=1
+tr|A0A0U1UYW3|A0A0U1UYW3_9ALPC -          27                   -                2.7   12.3   4.0       4.1   11.7   4.0   1.2   1   0   0   1   1   1   0 Membrane protein OS=BtMf-AlphaCoV/HeN2013 OX=1503283 GN=M PE=3 SV=1
+tr|A0A1B1MRI1|A0A1B1MRI1_9POXV -          27                   -                2.7   12.2   0.0         4   11.7   0.0   1.2   1   0   0   1   1   1   0 Holliday junction resolvase OS=Pteropox virus OX=1873698 GN=PTPV-Aus-117 PE=3 SV=1
+tr|A0A6B9R375|A0A6B9R375_9POXV -          27                   -                  4   11.7   1.1       4.3   11.6   1.1   1.1   1   0   0   1   1   1   0 IMv membrane protein OS=Cetacean poxvirus 1 OX=319748 PE=4 SV=1
+tr|A0A3G8FFG1|A0A3G8FFG1_9CAUD -          27                   -                4.8   11.4   0.1       5.3   11.3   0.1   1.0   1   0   0   1   1   1   0 Phage protein OS=Mycobacterium phage Centaur OX=2488784 GN=95 PE=4 SV=1
+tr|A0A1Y0SZU6|A0A1Y0SZU6_9CAUD -          27                   -                4.9   11.4   1.9       4.8   11.4   1.9   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Pseudomonas phage Phabio OX=2006668 GN=PHABIO_117 PE=4 SV=1
+tr|A0A916KQ89|A0A916KQ89_9POXV -          27                   -                6.2   11.1   2.5        12   10.1   2.5   1.6   1   1   0   1   1   1   0 Chitin-binding type-2 domain-containing protein OS=Mythimna separata entomopoxvirus 'L' OX=1293572 GN=MYSEV_173 PE=4 SV=1
+sp|K9N7D2|ORF5_MERS1           -          27                   -                7.6   10.8  10.7       9.2   10.5  10.7   1.1   1   0   0   1   1   1   0 Non-structural protein ORF5 OS=Middle East respiratory syndrome-related coronavirus (isolate United Kingdom/H123990006/2012) OX=1263720 GN=ORF5 PE=4 SV=1
+tr|R9UQM6|R9UQM6_MERS          -          27                   -                7.6   10.8  10.7       9.2   10.5  10.7   1.1   1   0   0   1   1   1   0 NS3D protein OS=Middle East respiratory syndrome-related coronavirus OX=1335626 GN=orf5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      Coronaviridae/HMMER/27.hmm
+# Target file:     ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta
+# Option settings: hmmsearch --tblout Coronaviridae/HMMER/27.tblout --noali Coronaviridae/HMMER/27.hmm ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta 
+# Current dir:     /Users/coco/Documents/paper3/PanPhylo/test
+# Date:            Wed Oct 11 21:54:51 2023
+# [ok]

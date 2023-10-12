@@ -1,0 +1,29 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A4D6DYQ9|A0A4D6DYQ9_9VIRU -          9                    -            2.5e-22   83.1   2.6   2.6e-22   83.0   2.6   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Escherichia phage Lilleven OX=2562234 PE=4 SV=1
+tr|A0A482MNA6|A0A482MNA6_9CAUD -          9                    -              0.082   17.4   0.5      0.16   16.5   0.5   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Burkholderia phage BcepSauron OX=2530033 GN=BcepSauron_200 PE=4 SV=1
+tr|A0A4D5ZCC4|A0A4D5ZCC4_9CAUD -          9                    -               0.17   16.4   0.4      0.33   15.5   0.4   1.4   1   0   0   1   1   1   0 Lipoprotein OS=Burkholderia phage BcepSaruman OX=2530032 GN=BcepSaruman_201 PE=4 SV=1
+tr|A0A7T0MFL0|A0A7T0MFL0_9CAUD -          9                    -               0.46   15.0   1.3      0.55   14.8   1.3   1.1   1   0   0   1   1   1   0 Membrane protein OS=Lactococcus phage GP13 OX=2777328 PE=4 SV=1
+tr|R9R1N6|R9R1N6_9CAUD         -          9                    -               0.72   14.4   1.8      0.87   14.2   1.8   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Lactococcus phage phi7 OX=1262538 GN=phi7_0036 PE=4 SV=1
+tr|A9YW55|A9YW55_9PHYC         -          9                    -                1.3   13.6   1.2       2.2   12.8   1.2   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Ostreococcus tauri virus OtV5 OX=1785753 GN=OtV5_141 PE=4 SV=1
+tr|A0A7T0QAF6|A0A7T0QAF6_9CAUD -          9                    -                1.8   13.1   1.0       2.1   12.9   1.0   1.2   1   0   0   1   1   1   0 Membrane protein OS=Lactococcus phage RH10 OX=2777331 PE=4 SV=1
+tr|A0A0P0CIS0|A0A0P0CIS0_9PHYC -          9                    -                  2   13.0   0.6       3.3   12.3   0.6   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Ostreococcus mediterraneus virus 1 OX=1663210 GN=OmV1_145 PE=4 SV=1
+tr|A0A649VLW5|A0A649VLW5_9CAUD -          9                    -                2.1   12.9   0.1       6.4   11.4   0.1   1.9   1   0   0   1   1   1   0 DUF1360 domain-containing protein OS=Microbacterium phage Megan OX=2656551 GN=12 PE=4 SV=1
+tr|A0A067Y1B5|A0A067Y1B5_9CAUD -          9                    -                3.3   12.3   0.7   3.7e+02    5.7   0.0   2.3   2   0   0   2   2   2   0 Uncharacterized protein OS=Escherichia phage vB_EcoP_PhAPEC5 OX=1395983 GN=PhAPEC5_77 PE=4 SV=1
+tr|A0A096XV11|A0A096XV11_9CAUD -          9                    -                  6   11.5   3.3       7.7   11.1   3.3   1.3   1   1   0   1   1   1   0 Uncharacterized protein OS=Lactococcus phage phi15 OX=1527693 GN=Phi15_38 PE=4 SV=1
+tr|A0A2C9CX58|A0A2C9CX58_9CAUD -          9                    -                6.3   11.4   6.6        86    7.8   0.9   2.5   1   1   1   2   2   2   0 Phage protein OS=Yersinia phage fHe-Yen9-04 OX=2052742 GN=g307 PE=4 SV=1
+tr|A0A2C9D0F9|A0A2C9D0F9_9CAUD -          9                    -                6.3   11.4   6.6        86    7.8   0.9   2.5   1   1   1   2   2   2   0 Phage protein OS=Yersinia phage fHe-Yen9-03 OX=2052743 GN=g310 PE=4 SV=1
+tr|A0A7G9UZ01|A0A7G9UZ01_9CAUD -          9                    -                7.6   11.1   0.7       7.6   11.1   0.7   2.6   3   0   0   3   3   3   0 Uncharacterized protein OS=Streptomyces phage Faust OX=2767565 GN=184 PE=4 SV=1
+tr|A0A2C9D1M8|A0A2C9D1M8_9CAUD -          9                    -                8.7   11.0   3.1        14   10.3   3.1   1.3   1   0   0   1   1   1   0 Phage protein OS=Yersinia phage fHe-Yen9-03 OX=2052743 GN=g444 PE=4 SV=1
+tr|A0A5K0U8Z5|A0A5K0U8Z5_9VIRU -          9                    -                9.7   10.8   1.9        24    9.6   1.9   1.6   1   0   0   1   1   1   0 TLC domain-containing protein OS=Yasminevirus sp. GU-2018 OX=2420051 GN=YASMINEVIRUS_850 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      Microviridae/HMMER/9.hmm
+# Target file:     ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta
+# Option settings: hmmsearch --tblout Microviridae/HMMER/9.tblout --noali Microviridae/HMMER/9.hmm ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta 
+# Current dir:     /Users/coco/Documents/paper3/PanPhylo/test
+# Date:            Wed Oct 11 21:03:18 2023
+# [ok]

@@ -1,0 +1,13 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      Coronaviridae/HMMER/KY073745_7.hmm
+# Target file:     ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta
+# Option settings: hmmsearch --tblout Coronaviridae/HMMER/KY073745_7.tblout --noali Coronaviridae/HMMER/KY073745_7.hmm ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta 
+# Current dir:     /Users/coco/Documents/paper3/PanPhylo/test
+# Date:            Wed Oct 11 21:54:47 2023
+# [ok]

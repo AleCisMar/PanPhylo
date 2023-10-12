@@ -1,0 +1,38 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q80872|NS2A_CVHOC           -          13                   -           6.8e-148  496.6   2.9    8e-148  496.3   2.9   1.0   1   0   0   1   1   1   1 Non-structural protein 2a OS=Human coronavirus OC43 OX=31631 GN=2a PE=2 SV=1
+tr|A0A0A7UXA7|A0A0A7UXA7_9BETC -          13                   -           1.5e-147  495.5   3.1  1.6e-147  495.3   3.1   1.0   1   0   0   1   1   1   1 Non-structural protein NS2a OS=Betacoronavirus HKU24 OX=1590370 GN=NS2a PE=4 SV=1
+tr|A4ZTZ5|A4ZTZ5_9BETC         -          13                   -           1.2e-146  492.5   1.8  1.3e-146  492.4   1.8   1.0   1   0   0   1   1   1   1 Non-structural protein 2a OS=Bovine coronavirus R-AH65 OX=422214 GN=A5G_003 PE=3 SV=1
+sp|P19738|NS2A_CVMA5           -          13                   -           8.1e-132  443.8   1.6  9.1e-132  443.7   1.6   1.0   1   0   0   1   1   1   1 Non-structural protein 2a OS=Murine coronavirus (strain A59) OX=11142 GN=2a PE=1 SV=1
+tr|C0KYZ8|C0KYZ8_9BETC         -          13                   -           1.3e-130  439.9   1.9  1.5e-130  439.7   1.9   1.0   1   0   0   1   1   1   1 Non-structural protein 2a OS=Murine coronavirus repJHM/RA59 OX=429330 PE=3 SV=1
+tr|Q9PYA1|Q9PYA1_CVM2          -          13                   -           4.5e-130  438.1   3.1  5.5e-130  437.8   3.1   1.0   1   0   0   1   1   1   1 Non-structural protein 2a OS=Murine coronavirus (strain 2) OX=76344 PE=2 SV=1
+tr|C6GHS0|C6GHS0_9BETC         -          13                   -           7.6e-128  430.8   3.0    9e-128  430.6   3.0   1.0   1   0   0   1   1   1   1 Non-structural protein 2a OS=Rat coronavirus Parker OX=502102 PE=3 SV=1
+tr|H9AA63|H9AA63_9BETC         -          13                   -            4.8e-29  106.8   0.0   5.9e-29  106.5   0.0   1.0   1   0   0   1   1   1   1 NS2a3 protein OS=Rabbit coronavirus HKU14 OX=1160968 GN=NS2a3 PE=4 SV=1
+sp|P0C6F4|R1A_BRV1             -          13                   -            3.6e-28  103.9   0.0   7.8e-28  102.8   0.0   1.6   1   0   0   1   1   1   1 Replicase polyprotein 1a OS=Breda virus 1 OX=360393 GN=1a PE=3 SV=1
+sp|P0C6V8|R1AB_BRV1            -          13                   -              5e-28  103.4   0.0   1.2e-27  102.2   0.0   1.6   1   0   0   1   1   1   1 Replicase polyprotein 1ab OS=Breda virus 1 OX=360393 GN=rep PE=2 SV=1
+tr|H9AA62|H9AA62_9BETC         -          13                   -            8.9e-13   53.4   0.1   9.2e-13   53.4   0.1   1.0   1   0   0   1   1   1   1 NS2a2 protein OS=Rabbit coronavirus HKU14 OX=1160968 GN=NS2a2 PE=4 SV=1
+tr|H9AA61|H9AA61_9BETC         -          13                   -            3.5e-09   41.6   0.3   3.8e-09   41.5   0.3   1.0   1   0   0   1   1   1   1 NS2a1 protein OS=Rabbit coronavirus HKU14 OX=1160968 GN=NS2a1 PE=4 SV=1
+sp|Q6WVH5|VP3_ROTHW            -          13                   -              0.048   18.2   0.1      0.23   16.0   0.1   2.1   1   1   0   1   1   1   0 Protein VP3 OS=Rotavirus A (strain RVA/Human/United States/Wa/1974/G1P1A[8]) OX=10962 PE=3 SV=1
+tr|K9L4Q7|K9L4Q7_9REOV         -          13                   -               0.11   17.0   0.6      0.64   14.5   0.0   2.4   2   1   0   2   2   2   0 Protein VP3 OS=Murine rotavirus OX=28327 GN=VP3 PE=3 SV=1
+tr|L0CSK9|L0CSK9_9REOV         -          13                   -               0.16   16.5   0.0      0.43   15.1   0.0   1.7   1   1   0   1   1   1   0 Protein VP3 OS=Rotavirus A turkey-tc/GER/03V0002E10/2003/G22P[35] OX=1271535 PE=3 SV=1
+sp|A2T3S5|VP3_ROTSH            -          13                   -               0.27   15.8   0.0      0.27   15.8   0.0   2.2   2   1   1   3   3   2   0 Protein VP3 OS=Rotavirus A (isolate RVA/Monkey/South Africa/SA11-H96/1958/G3P5B[2]) OX=450149 PE=1 SV=1
+sp|P15736|VP3_ROTS1            -          13                   -               0.27   15.8   0.0      0.27   15.8   0.0   2.2   2   1   1   3   3   2   0 Protein VP3 OS=Rotavirus A (strain RVA/SA11-Both/G3P5B[2]) OX=37137 PE=3 SV=2
+tr|A0A2H4YEM8|A0A2H4YEM8_9CAUD -          13                   -               0.78   14.2   0.0      0.78   14.2   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Aeromonas phage Ah1 OX=2053701 GN=Ah1_00097 PE=4 SV=1
+tr|K8DV26|K8DV26_9CAUD         -          13                   -                  1   13.9   0.1       1.8   13.1   0.1   1.4   1   1   0   1   1   1   0 Tail sheath stabilizer and completion protein OS=Pseudotevenvirus RB43 OX=115991 PE=4 SV=1
+tr|A0A7G9V4N3|A0A7G9V4N3_9CAUD -          13                   -                1.8   13.0   0.3       2.1   12.8   0.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Lactobacillus phage Lbab1 OX=2769358 PE=4 SV=1
+tr|A0A411BA10|A0A411BA10_9CAUD -          13                   -                2.5   12.6   0.0       2.5   12.6   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Aeromonas phage AsFcp_2 OX=2419736 GN=ASfcp2_21 PE=4 SV=1
+tr|E5DQ35|E5DQ35_9CAUD         -          13                   -                2.5   12.6   0.0       2.5   12.6   0.0   1.0   1   0   0   1   1   1   0 NrdH glutaredoxin OS=Aeromonas phage PX29 OX=926067 GN=PX29p102 PE=4 SV=1
+tr|D0U213|D0U213_9CAUD         -          13                   -                  6   11.3   0.0       9.4   10.7   0.0   1.3   1   0   0   1   1   1   0 Terminase small subunit OS=Clavibacter phage CMP1 OX=686439 GN=CMP1-29 PE=4 SV=1
+tr|A0A386KS59|A0A386KS59_9CAUD -          13                   -                6.4   11.2   0.0        11   10.5   0.0   1.3   1   0   0   1   1   1   0 Anti-CBASS protein Acb1 OS=Microbacterium phage ValentiniPuff OX=2315705 GN=7 PE=3 SV=1
+tr|A0A410T7N8|A0A410T7N8_9CAUD -          13                   -                7.3   11.1   0.3       9.5   10.7   0.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Mycobacterium phage Henu3 OX=2492961 GN=Henu3_gp85 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      Coronaviridae/HMMER/13.hmm
+# Target file:     ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta
+# Option settings: hmmsearch --tblout Coronaviridae/HMMER/13.tblout --noali Coronaviridae/HMMER/13.hmm ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta 
+# Current dir:     /Users/coco/Documents/paper3/PanPhylo/test
+# Date:            Wed Oct 11 21:57:48 2023
+# [ok]

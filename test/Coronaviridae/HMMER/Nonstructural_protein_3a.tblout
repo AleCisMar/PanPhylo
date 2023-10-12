@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P09046|NS3A_CVPPU           -          AJ271965_4           -            2.2e-49  170.6   4.2   2.4e-49  170.5   4.2   1.0   1   0   0   1   1   1   1 Non-structural protein 3a OS=Porcine transmissible gastroenteritis coronavirus (strain Purdue) OX=11151 GN=3a PE=4 SV=1
+sp|O39432|NS3A_FIPV            -          AJ271965_4           -            1.7e-41  145.3   2.5   1.8e-41  145.2   2.5   1.0   1   0   0   1   1   1   1 Non-structural protein 3a OS=Feline coronavirus (strain FIPV WSU-79/1146) OX=33734 GN=3a PE=4 SV=1
+tr|A0A0K1RLP8|A0A0K1RLP8_9ALPC -          AJ271965_4           -            4.1e-17   67.2   1.1   4.5e-17   67.0   1.1   1.0   1   0   0   1   1   1   1 Non-structural protein 3a OS=Porcine respiratory coronavirus OX=11146 GN=ORF3a PE=4 SV=1
+tr|K7Z7P7|K7Z7P7_9VIRU         -          AJ271965_4           -               0.07   18.4   0.0      0.11   17.7   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Megavirus courdo11 OX=1128140 GN=CE11_00331 PE=4 SV=1
+tr|A0A5J6TVE3|A0A5J6TVE3_9CAUD -          AJ271965_4           -                  1   14.7   0.0       1.3   14.3   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Mycobacterium phage Toaka OX=2599881 GN=63 PE=4 SV=1
+tr|M4QUX5|M4QUX5_9CAUD         -          AJ271965_4           -                3.5   12.9   0.0       9.1   11.6   0.0   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Vibrio phage 11895-B1 OX=754075 GN=VPHG_00191 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      Coronaviridae/HMMER/AJ271965_4.hmm
+# Target file:     ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta
+# Option settings: hmmsearch --tblout Coronaviridae/HMMER/AJ271965_4.tblout --noali Coronaviridae/HMMER/AJ271965_4.hmm ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta 
+# Current dir:     /Users/coco/Documents/paper3/PanPhylo/test
+# Date:            Wed Oct 11 21:54:47 2023
+# [ok]

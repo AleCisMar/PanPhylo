@@ -1,0 +1,29 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P69592|J_BPPHS              -          16                   -            5.1e-26   95.5  12.6   5.4e-26   95.4  12.6   1.0   1   0   0   1   1   1   1 DNA-binding protein J OS=Enterobacteria phage phiX174 OX=1217068 GN=J PE=1 SV=2
+tr|A0A7L7SQ40|A0A7L7SQ40_BPPHX -          16                   -            5.1e-26   95.5  12.6   5.4e-26   95.4  12.6   1.0   1   0   0   1   1   1   1 J protein OS=Protaetiibacter phage SSC1 OX=2771350 PE=4 SV=1
+tr|Q2LLP3|Q2LLP3_BPPHX         -          16                   -            5.1e-26   95.5  12.6   5.4e-26   95.4  12.6   1.0   1   0   0   1   1   1   1 J protein OS=Enterobacteria phage NC51 OX=338122 GN=J PE=4 SV=1
+tr|Q2LLQ4|Q2LLQ4_BPPHX         -          16                   -            5.1e-26   95.5  12.6   5.4e-26   95.4  12.6   1.0   1   0   0   1   1   1   1 J protein OS=Enterobacteria phage NC41 OX=338121 GN=J PE=4 SV=1
+tr|Q2LM86|Q2LM86_9VIRU         -          16                   -            1.6e-08   39.4   5.7   2.6e-08   38.8   5.7   1.3   1   1   0   1   1   1   1 J protein OS=Enterobacteria phage WA13 OX=489828 GN=J PE=4 SV=1
+tr|Q2LM96|Q2LM96_9VIRU         -          16                   -            1.6e-08   39.4   5.7   2.6e-08   38.8   5.7   1.3   1   1   0   1   1   1   1 J protein OS=Escherichia phage NC35 OX=338103 GN=J PE=4 SV=1
+tr|Q2LMB6|Q2LMB6_9VIRU         -          16                   -            1.6e-08   39.4   5.7   2.6e-08   38.8   5.7   1.3   1   1   0   1   1   1   1 J protein OS=Escherichia phage ID21 OX=338101 GN=J PE=4 SV=1
+sp|P69548|J_BPAL3              -          16                   -            1.8e-08   39.3   6.3   2.8e-08   38.7   6.3   1.3   1   1   0   1   1   1   1 DNA-binding protein J OS=Escherichia phage alpha3 OX=10849 GN=J PE=1 SV=1
+sp|P03652|J_BPG4               -          16                   -            1.5e-06   33.1   7.1   1.1e-05   30.4   7.1   1.9   1   1   0   1   1   1   1 DNA-binding protein J OS=Escherichia phage G4 OX=10843 GN=J PE=1 SV=1
+tr|A0A1B1IYC9|A0A1B1IYC9_9VIRU -          16                   -            2.2e-05   29.4   7.0   0.00016   26.7   7.0   1.9   1   1   0   1   1   1   1 J protein OS=Enterobacteria phage ID11 OX=310953 PE=4 SV=1
+tr|A0A0B4SKU9|A0A0B4SKU9_9CAUD -          16                   -                  3   13.0   1.4       3.7   12.7   0.0   1.8   2   0   0   2   2   2   0 Putative VRR-NUC domain-containing protein OS=Proteus phage pPM_01 OX=1567485 GN=pPM01_0063 PE=4 SV=1
+tr|A0A2H4PRG5|A0A2H4PRG5_9CAUD -          16                   -                  3   13.0   1.4       3.7   12.7   0.0   1.8   2   0   0   2   2   2   0 VRR-NUC domain-containing protein OS=Proteus phage PM87 OX=2048007 PE=4 SV=1
+tr|A0A5Q2F5A8|A0A5Q2F5A8_9CAUD -          16                   -                  3   13.0   1.4       3.7   12.7   0.0   1.8   2   0   0   2   2   2   0 Putative VRR-NUC domain-containing protein OS=Escherichia phage E21 OX=2663325 PE=4 SV=1
+tr|A0A6B9SQ35|A0A6B9SQ35_9CAUD -          16                   -                  3   13.0   1.4       3.7   12.7   0.0   1.8   2   0   0   2   2   2   0 Putative VRR-NUC domain-containing protein OS=Proteus phage P16-2532 OX=2692739 PE=4 SV=1
+tr|A0A1W6JTD5|A0A1W6JTD5_9CAUD -          16                   -                3.2   12.9   1.9       5.4   12.2   0.4   2.0   2   0   0   2   2   2   0 Helix-turn-helix domain-containing protein OS=Pseudomonas phage JBD68 OX=1542116 GN=jbd68_54 PE=4 SV=1
+tr|K4HYF6|K4HYF6_9CAUD         -          16                   -                7.2   11.8   1.4        18   10.5   1.4   1.7   1   1   0   1   1   1   0 Aromatic ring-opening dioxygenase LigA OS=Streptomyces phage SV1 OX=1204525 GN=SV1_36 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      Microviridae/HMMER/16.hmm
+# Target file:     ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta
+# Option settings: hmmsearch --tblout Microviridae/HMMER/16.tblout --noali Microviridae/HMMER/16.hmm ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta 
+# Current dir:     /Users/coco/Documents/paper3/PanPhylo/test
+# Date:            Wed Oct 11 21:03:40 2023
+# [ok]

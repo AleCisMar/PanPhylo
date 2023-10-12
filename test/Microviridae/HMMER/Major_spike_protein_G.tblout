@@ -1,0 +1,32 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q2LM84|Q2LM84_9VIRU         -          4                    -            4.7e-89  301.9  10.8   5.2e-89  301.8  10.8   1.0   1   0   0   1   1   1   1 Major spike protein G OS=Enterobacteria phage WA13 OX=489828 GN=G PE=3 SV=1
+tr|Q2LMB4|Q2LMB4_9VIRU         -          4                    -            5.6e-88  298.4   7.6   6.3e-88  298.2   7.6   1.0   1   0   0   1   1   1   1 Major spike protein G OS=Escherichia phage ID21 OX=338101 GN=G PE=3 SV=1
+tr|Q2LM94|Q2LM94_9VIRU         -          4                    -            1.9e-86  293.4   8.2   2.1e-86  293.3   8.2   1.0   1   0   0   1   1   1   1 Major spike protein G OS=Escherichia phage NC35 OX=338103 GN=G PE=3 SV=1
+sp|P31281|G_BPAL3              -          4                    -            3.5e-76  260.0   6.0   3.9e-76  259.8   6.0   1.0   1   0   0   1   1   1   1 Major spike protein G OS=Escherichia phage alpha3 OX=10849 GN=G PE=1 SV=1
+tr|A0A4D6DYV6|A0A4D6DYV6_9VIRU -          4                    -              4e-75  256.5   4.2   4.4e-75  256.4   4.2   1.0   1   0   0   1   1   1   1 Major spike protein G OS=Escherichia phage Lilleven OX=2562234 PE=3 SV=1
+tr|Q5C8R5|Q5C8R5_9VIRU         -          4                    -            4.6e-74  253.0   4.5   5.2e-74  252.9   4.5   1.0   1   0   0   1   1   1   1 Major spike protein G OS=Enterobacteria phage ID11 OX=310953 PE=3 SV=1
+tr|A0A7L7SME2|A0A7L7SME2_BPPHX -          4                    -            5.9e-74  252.7   0.6   6.6e-74  252.6   0.6   1.0   1   0   0   1   1   1   1 Major spike protein G OS=Protaetiibacter phage SSC1 OX=2771350 PE=3 SV=1
+sp|P03644|G_BPG4               -          4                    -              7e-74  252.5   4.3   7.8e-74  252.3   4.3   1.0   1   0   0   1   1   1   1 Major spike protein G OS=Escherichia phage G4 OX=10843 GN=G PE=1 SV=1
+sp|P03643|G_BPPHS              -          4                    -              7e-74  252.5   0.7   7.8e-74  252.3   0.7   1.0   1   0   0   1   1   1   1 Major spike protein G OS=Enterobacteria phage phiX174 OX=1217068 GN=G PE=1 SV=1
+tr|Q2LLP1|Q2LLP1_BPPHX         -          4                    -            3.5e-73  250.2   0.6   3.9e-73  250.0   0.6   1.0   1   0   0   1   1   1   1 Major spike protein G OS=Enterobacteria phage NC51 OX=338122 GN=G PE=3 SV=1
+tr|Q2LLQ2|Q2LLQ2_BPPHX         -          4                    -            6.1e-73  249.4   0.6   6.7e-73  249.3   0.6   1.0   1   0   0   1   1   1   1 Major spike protein G OS=Enterobacteria phage NC41 OX=338121 GN=G PE=3 SV=1
+tr|A0A4D6DYU0|A0A4D6DYU0_9VIRU -          4                    -            2.3e-48  169.3   9.2   2.6e-48  169.1   9.2   1.0   1   0   0   1   1   1   1 G protein OS=Escherichia phage Lilleput OX=2562232 PE=3 SV=1
+tr|A0A4D6DZ01|A0A4D6DZ01_9VIRU -          4                    -            4.2e-48  168.5   8.7   4.7e-48  168.3   8.7   1.0   1   0   0   1   1   1   1 G protein OS=Escherichia phage Lilleto OX=2562236 PE=3 SV=1
+tr|A0A5C1K5B4|A0A5C1K5B4_9VIRU -          4                    -            8.1e-48  167.5   8.9   9.1e-48  167.4   8.9   1.0   1   0   0   1   1   1   1 G protein OS=Escherichia phage Lilledu OX=2604898 PE=3 SV=1
+tr|A0A6B9X0M9|A0A6B9X0M9_9VIRU -          4                    -            5.3e-47  164.9   9.0   5.9e-47  164.7   9.0   1.0   1   0   0   1   1   1   1 G protein OS=Escherichia phage lillemer OX=2696414 GN=lillemer_6 PE=3 SV=1
+tr|A0A6B9J799|A0A6B9J799_9CAUD -          4                    -               0.56   14.9   0.1      0.56   14.9   0.1   2.0   2   0   0   2   2   2   0 Minor tail protein OS=Arthrobacter phage DrYang OX=2686080 GN=41 PE=4 SV=1
+tr|A0A0B5D5D5|A0A0B5D5D5_9GAMA -          4                    -                1.5   13.5   0.1       3.6   12.3   0.1   1.6   1   0   0   1   1   1   0 Envelope glycoprotein B OS=Macaca nemestrina rhadinovirus 2 OX=123630 GN=ORF8 PE=3 SV=1
+tr|Q53D58|Q53D58_9GAMA         -          4                    -                1.6   13.4   0.1       3.6   12.3   0.1   1.5   1   0   0   1   1   1   0 Envelope glycoprotein B OS=Macaca fuscata rhadinovirus OX=272551 GN=gB PE=3 SV=1
+sp|Q66613|GB_EHV2              -          4                    -                  2   13.1   0.0       3.8   12.2   0.0   1.4   1   0   0   1   1   1   0 Envelope glycoprotein B OS=Equine herpesvirus 2 (strain 86/87) OX=82831 GN=gB PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      Microviridae/HMMER/4.hmm
+# Target file:     ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta
+# Option settings: hmmsearch --tblout Microviridae/HMMER/4.tblout --noali Microviridae/HMMER/4.hmm ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta 
+# Current dir:     /Users/coco/Documents/paper3/PanPhylo/test
+# Date:            Wed Oct 11 21:03:12 2023
+# [ok]

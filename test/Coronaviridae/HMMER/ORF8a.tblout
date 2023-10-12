@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A4D6FT76|A0A4D6FT76_9GAMC -          MK359255_9           -            1.1e-44  155.1  12.4   1.2e-44  155.0  12.4   1.0   1   0   0   1   1   1   1 ORF8a OS=Canada goose coronavirus OX=2569586 PE=4 SV=1
+tr|A0A0F6YS56|A0A0F6YS56_9GAMC -          MK359255_9           -            4.9e-10   44.2   2.1   5.7e-10   44.0   2.1   1.1   1   0   0   1   1   1   1 5a protein OS=Duck coronavirus OX=300188 GN=5a PE=4 SV=1
+sp|Q89613|NS5A_IBVB            -          MK359255_9           -            1.2e-05   30.1   1.3   1.2e-05   30.1   1.3   1.1   1   0   0   1   1   1   1 Non-structural protein 5a OS=Avian infectious bronchitis virus (strain Beaudette) OX=11122 GN=5a PE=4 SV=1
+tr|Q9J4A5|Q9J4A5_9GAMC         -          MK359255_9           -            0.00032   25.6   0.2   0.00032   25.6   0.2   1.1   1   0   0   1   1   1   1 5a OS=Infectious bronchitis virus OX=11120 GN=5a PE=4 SV=1
+tr|Q331U4|Q331U4_CBCP          -          MK359255_9           -                2.3   13.2   0.4         9   11.3   0.4   2.1   2   0   0   2   2   2   0 Putative IS transposase (OrfA) OS=Clostridium botulinum C phage OX=12336 GN=CST182 PE=4 SV=1
+tr|A0A916KP29|A0A916KP29_9POXV -          MK359255_9           -                2.4   13.2   0.1   1.2e+02    7.7   0.0   2.6   2   0   0   2   2   2   0 62 kDa protein OS=Adoxophyes honmai entomopoxvirus 'L' OX=1293540 GN=AHEV_112 PE=4 SV=1
+tr|A0A7T3NBB5|A0A7T3NBB5_9CAUD -          MK359255_9           -                2.5   13.1   0.1       2.9   12.9   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Cronobacter phage vB_CsaM_SemperBestia OX=2777353 PE=4 SV=1
+tr|A0A8S5KYH3|A0A8S5KYH3_9VIRU -          MK359255_9           -                7.6   11.6   0.0        15   10.6   0.0   1.4   1   0   0   1   1   1   0 Maturation protein OS=ssRNA phage Gerhypos.4_18 OX=2786318 GN=Gerhypos.4_18_1 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      Coronaviridae/HMMER/MK359255_9.hmm
+# Target file:     ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta
+# Option settings: hmmsearch --tblout Coronaviridae/HMMER/MK359255_9.tblout --noali Coronaviridae/HMMER/MK359255_9.hmm ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta 
+# Current dir:     /Users/coco/Documents/paper3/PanPhylo/test
+# Date:            Wed Oct 11 21:56:19 2023
+# [ok]

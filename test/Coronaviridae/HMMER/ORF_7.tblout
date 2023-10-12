@@ -1,0 +1,26 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|B2BW40|B2BW40_BWCOV         -          37                   -           3.2e-113  379.6   0.8  3.6e-113  379.4   0.8   1.0   1   0   0   1   1   1   1 ORF 7 OS=Beluga whale coronavirus (strain SW1) OX=694015 PE=4 SV=1
+tr|A0A346FHZ3|A0A346FHZ3_9CAUD -          37                   -               0.38   15.3   0.1        78    7.8   0.0   2.2   1   1   1   2   2   2   0 Thioredoxin OS=Erwinia phage SunLIRen OX=2267654 GN=SUNLIREN_123 PE=4 SV=1
+tr|A0A386K5C5|A0A386K5C5_9CAUD -          37                   -               0.38   15.3   0.1        78    7.8   0.0   2.2   1   1   1   2   2   2   0 Uncharacterized protein OS=Enterobacter phage phi63_307 OX=2340711 GN=LINGLNFE_00031 PE=4 SV=1
+tr|E5AG32|E5AG32_9CAUD         -          37                   -               0.38   15.3   0.1        78    7.8   0.0   2.2   1   1   1   2   2   2   0 Thioredoxin OS=Erwinia phage phiEa104 OX=925986 GN=P104_01010 PE=4 SV=1
+tr|B8QTZ8|B8QTZ8_9CAUD         -          37                   -               0.39   15.3   0.1        78    7.8   0.0   2.2   1   1   1   2   2   2   0 Uncharacterized protein 100 OS=Erwinia phage phiEa21-4 OX=557393 GN=100 PE=4 SV=1
+tr|A0A411BIH5|A0A411BIH5_9CAUD -          37                   -               0.43   15.1   0.1      0.58   14.7   0.1   1.2   1   0   0   1   1   1   0 Neck protein OS=Aeromonas phage Aswh_1 OX=2419740 GN=ASwh1_347 PE=4 SV=1
+tr|A0A5J6T7Y8|A0A5J6T7Y8_9CAUD -          37                   -                0.6   14.7   0.0       0.6   14.7   0.0   1.0   1   0   0   1   1   1   0 DNA binding protein OS=Bacillus phage 031MP002 OX=2601656 GN=50 PE=4 SV=1
+tr|A0A7T8IXW6|A0A7T8IXW6_9CAUD -          37                   -               0.72   14.4   1.9       1.7   13.2   0.3   2.3   2   1   0   2   2   2   0 Non-viral RNA polymerase specificity subunit OS=Staphylococcus phage Machias OX=2797423 GN=CPT_Machias_192 PE=4 SV=1
+tr|A0A0A6Z5A0|A0A0A6Z5A0_9CAUD -          37                   -               0.86   14.2   0.0       0.9   14.1   0.0   1.1   1   0   0   1   1   1   0 Prophage protein OS=Enterobacter phage phiKDA1 OX=1147139 GN=phiKDA1_35 PE=4 SV=1
+tr|O41058|O41058_PBCV1         -          37                   -                1.1   13.8   0.1       1.2   13.6   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Paramecium bursaria Chlorella virus 1 OX=10506 GN=a576R PE=4 SV=1
+tr|A0A411B820|A0A411B820_9CAUD -          37                   -                1.9   13.0   0.3       2.7   12.6   0.3   1.2   1   0   0   1   1   1   0 Neck protein OS=Aeromonas phage Asswx_1 OX=2419739 GN=ASswx1_104 PE=4 SV=1
+tr|I6WBJ7|I6WBJ7_9CAUD         -          37                   -                2.4   12.7   0.2       3.4   12.2   0.2   1.2   1   0   0   1   1   1   0 Neck protein OS=Aeromonas phage CC2 OX=1204516 GN=CC2_005 PE=4 SV=1
+tr|A0A8S5L1G1|A0A8S5L1G1_9VIRU -          37                   -                  5   11.7   0.0       6.7   11.3   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=ssRNA phage Zoerhiza.1_27 OX=2786769 GN=Zoerhiza.1_27_3 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      Coronaviridae/HMMER/37.hmm
+# Target file:     ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta
+# Option settings: hmmsearch --tblout Coronaviridae/HMMER/37.tblout --noali Coronaviridae/HMMER/37.hmm ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta 
+# Current dir:     /Users/coco/Documents/paper3/PanPhylo/test
+# Date:            Wed Oct 11 21:55:02 2023
+# [ok]

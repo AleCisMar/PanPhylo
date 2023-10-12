@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0F6SKM8|A0A0F6SKM8_9GAMC -          KM454473_10          -            5.5e-49  169.4   7.4     6e-49  169.3   7.4   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Duck coronavirus OX=300188 GN=ORFY PE=4 SV=1
+tr|A0A2U7UBF4|A0A2U7UBF4_9VIRU -          KM454473_10          -                2.6   13.4   0.5       4.4   12.7   0.5   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Pandoravirus neocaledonia OX=2107708 GN=pneo_cds_170 PE=4 SV=1
+tr|Q30C84|Q30C84_9REOV         -          KM454473_10          -                  3   13.2   0.0       9.1   11.7   0.0   1.8   1   0   0   1   1   1   0 Uncharacterized protein OS=Operophtera brumata reovirus OX=352248 PE=4 SV=1
+tr|K7Z9T1|K7Z9T1_9CAUD         -          KM454473_10          -                3.9   12.9   0.0       7.5   12.0   0.0   1.4   1   0   0   1   1   1   0 Putative alpha hydrolase OS=Serratia phage phiMAM1 OX=1262513 GN=MAM_175 PE=4 SV=1
+tr|A0A7S5R144|A0A7S5R144_9CAUD -          KM454473_10          -                  4   12.8   3.9       9.6   11.6   3.9   1.6   1   1   0   1   1   1   0 Uncharacterized protein OS=Rhizobium phage RHph_I46 OX=2509737 GN=EVB81_237 PE=4 SV=1
+tr|A0A7S5R9U8|A0A7S5R9U8_9CAUD -          KM454473_10          -                  4   12.8   3.9       9.6   11.6   3.9   1.6   1   1   0   1   1   1   0 Uncharacterized protein OS=Rhizobium phage RHph_I1_9 OX=2509729 GN=EVC04_235 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      Coronaviridae/HMMER/KM454473_10.hmm
+# Target file:     ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta
+# Option settings: hmmsearch --tblout Coronaviridae/HMMER/KM454473_10.tblout --noali Coronaviridae/HMMER/KM454473_10.hmm ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta 
+# Current dir:     /Users/coco/Documents/paper3/PanPhylo/test
+# Date:            Wed Oct 11 21:55:05 2023
+# [ok]

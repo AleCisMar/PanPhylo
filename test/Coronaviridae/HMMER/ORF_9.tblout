@@ -1,0 +1,24 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|B2BW42|B2BW42_BWCOV         -          39                   -           7.6e-110  368.9   0.6  8.4e-110  368.7   0.6   1.0   1   0   0   1   1   1   1 ORF 9 OS=Beluga whale coronavirus (strain SW1) OX=694015 PE=4 SV=1
+tr|A0A7D5FTF7|A0A7D5FTF7_9CAUD -          39                   -               0.79   14.9   0.0   2.8e+03    3.3   0.0   3.6   3   0   0   3   3   3   0 Peptidoglycan transglycosylase OS=Escherichia virus LS2 OX=2743776 GN=LS2_38 PE=4 SV=1
+tr|A0A2C9CYB9|A0A2C9CYB9_9CAUD -          39                   -                1.1   14.3   0.7        24   10.0   0.2   2.1   2   0   0   2   2   2   0 Cyanophage-encoded cytidylyltransferase #T4 GC0190 OS=Yersinia phage fHe-Yen9-04 OX=2052742 GN=g051 PE=4 SV=1
+tr|Q84492|Q84492_PBCV1         -          39                   -                1.9   13.7   0.1       2.3   13.4   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Paramecium bursaria Chlorella virus 1 OX=10506 GN=a172L PE=4 SV=1
+tr|A0A2C9CYJ5|A0A2C9CYJ5_9CAUD -          39                   -                  2   13.5   0.4        58    8.8   0.2   2.1   2   0   0   2   2   2   0 Cyanophage-encoded cytidylyltransferase #T4 GC0190 OS=Yersinia phage fHe-Yen9-03 OX=2052743 GN=g057 PE=4 SV=1
+tr|A0A142KAT6|A0A142KAT6_9CAUD -          39                   -                2.8   13.1   0.0         4   12.6   0.0   1.3   1   0   0   1   1   1   0 RecT-like ssDNA binding protein OS=Gordonia phage Nymphadora OX=1821558 GN=60 PE=4 SV=1
+tr|A0A516KPA6|A0A516KPA6_9CAUD -          39                   -                2.8   13.1   0.0         4   12.6   0.0   1.3   1   0   0   1   1   1   0 RecT-like ssDNA binding protein OS=Gordonia phage TimTam OX=2250398 GN=60 PE=4 SV=1
+tr|D9J0S0|D9J0S0_9CAUD         -          39                   -                3.7   12.7   0.1       6.2   12.0   0.1   1.5   1   0   0   1   1   1   0 Gp123 OS=Brochothrix phage A9 OX=857312 PE=4 SV=1
+tr|A0A481S1Q4|A0A481S1Q4_9CAUD -          39                   -                4.6   12.4   0.0       6.9   11.8   0.0   1.3   1   0   0   1   1   1   0 RecT-like ssDNA binding protein OS=Gordonia phage Walrus OX=2517927 GN=57 PE=4 SV=1
+tr|A0A5J6TGD7|A0A5J6TGD7_9CAUD -          39                   -                4.6   12.4   0.0       6.9   11.8   0.0   1.3   1   0   0   1   1   1   0 RecT-like ssDNA binding protein OS=Gordonia phage Pipp OX=2599846 GN=61 PE=4 SV=1
+tr|A0A481S2I3|A0A481S2I3_9CAUD -          39                   -                4.6   12.4   0.0         7   11.8   0.0   1.3   1   0   0   1   1   1   0 RecT-like ssDNA binding protein OS=Gordonia phage Barco OX=2517926 GN=57 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      Coronaviridae/HMMER/39.hmm
+# Target file:     ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta
+# Option settings: hmmsearch --tblout Coronaviridae/HMMER/39.tblout --noali Coronaviridae/HMMER/39.hmm ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta 
+# Current dir:     /Users/coco/Documents/paper3/PanPhylo/test
+# Date:            Wed Oct 11 21:57:40 2023
+# [ok]

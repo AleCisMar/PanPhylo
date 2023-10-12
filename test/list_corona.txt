@@ -1,0 +1,2 @@
+pangolinCoV.fasta
+ratg13CoV.fasta

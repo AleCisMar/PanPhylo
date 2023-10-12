@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|K4KCR6|K4KCR6_9ALPC         -          JQ989270_9           -           3.3e-104  350.0   3.0  3.7e-104  349.9   3.0   1.0   1   0   0   1   1   1   1 Non-structural protein NS7b OS=Rousettus bat coronavirus HKU10 OX=1241933 GN=NS7b PE=4 SV=1
+tr|K4K1W8|K4K1W8_9ALPC         -          JQ989270_9           -           3.3e-103  346.8   2.4  3.7e-103  346.6   2.4   1.0   1   0   0   1   1   1   1 Non-structural protein NS7b OS=Hipposideros bat coronavirus HKU10 OX=1241932 GN=NS7b PE=4 SV=1
+tr|S4VWY3|S4VWY3_9VIRU         -          JQ989270_9           -               0.08   17.6   0.0        34    9.0   0.0   2.3   2   0   0   2   2   2   0 Morn repeat domain containing protein OS=Pandoravirus salinus OX=1349410 GN=psal_cds_838 PE=4 SV=1
+tr|A0A0H3TLF2|A0A0H3TLF2_9VIRU -          JQ989270_9           -               0.48   15.0   0.0      0.71   14.5   0.0   1.2   1   0   0   1   1   1   0 Proliferating cell nuclear antigen OS=Faustovirus OX=1477405 GN=D5a_00008 PE=4 SV=1
+sp|Q9QJT7|MATRX_SHRV           -          JQ989270_9           -               0.84   14.2   0.0       1.2   13.7   0.0   1.2   1   0   0   1   1   1   0 Matrix protein OS=Snakehead rhabdovirus OX=103603 GN=M PE=3 SV=1
+tr|A0A5K1KDD9|A0A5K1KDD9_9CAUD -          JQ989270_9           -                  4   12.0   0.2        11   10.7   0.2   1.6   1   1   1   2   2   2   0 Ricin B lectin domain-containing protein OS=Yersinia phage YeP3 OX=2562811 PE=4 SV=1
+sp|Q5UPC5|YR047_MIMIV          -          JQ989270_9           -                5.9   11.5   1.7        89    7.7   0.0   2.7   2   1   1   3   3   3   0 Uncharacterized protein R47 OS=Acanthamoeba polyphaga mimivirus OX=212035 GN=MIMI_R47 PE=4 SV=1
+tr|G8EC95|G8EC95_9VIRU         -          JQ989270_9           -                5.9   11.5   1.7        89    7.7   0.0   2.7   2   1   1   3   3   3   0 Uncharacterized protein MAMA_R87 OS=Acanthamoeba castellanii mamavirus OX=554168 GN=MAMA_R87 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      Coronaviridae/HMMER/JQ989270_9.hmm
+# Target file:     ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta
+# Option settings: hmmsearch --tblout Coronaviridae/HMMER/JQ989270_9.tblout --noali Coronaviridae/HMMER/JQ989270_9.hmm ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta 
+# Current dir:     /Users/coco/Documents/paper3/PanPhylo/test
+# Date:            Wed Oct 11 21:57:00 2023
+# [ok]

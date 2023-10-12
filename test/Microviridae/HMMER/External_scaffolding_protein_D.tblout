@@ -1,0 +1,32 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q2LM88|Q2LM88_9VIRU         -          2                    -            2.7e-97  327.8   1.4   2.9e-97  327.6   1.4   1.0   1   0   0   1   1   1   1 External scaffolding protein D OS=Enterobacteria phage WA13 OX=489828 GN=D PE=3 SV=1
+tr|Q2LM98|Q2LM98_9VIRU         -          2                    -            2.7e-97  327.8   1.4   2.9e-97  327.6   1.4   1.0   1   0   0   1   1   1   1 External scaffolding protein D OS=Escherichia phage NC35 OX=338103 GN=D PE=3 SV=1
+tr|Q2LMB8|Q2LMB8_9VIRU         -          2                    -            3.7e-97  327.3   1.3   4.1e-97  327.1   1.3   1.0   1   0   0   1   1   1   1 External scaffolding protein D OS=Escherichia phage ID21 OX=338101 GN=D PE=3 SV=1
+tr|A0A4D6DYZ8|A0A4D6DYZ8_9VIRU -          2                    -            6.1e-94  316.8   1.0   6.7e-94  316.7   1.0   1.0   1   0   0   1   1   1   1 External scaffolding protein D OS=Escherichia phage Lilleven OX=2562234 PE=3 SV=1
+sp|P08765|SCAFD_BPAL3          -          2                    -            1.4e-93  315.7   1.3   1.6e-93  315.5   1.3   1.0   1   0   0   1   1   1   1 External scaffolding protein D OS=Escherichia phage alpha3 OX=10849 GN=D PE=3 SV=2
+sp|P69486|SCAFD_BPPHS          -          2                    -            1.5e-93  315.6   1.0   1.7e-93  315.4   1.0   1.0   1   0   0   1   1   1   1 External scaffolding protein D OS=Enterobacteria phage phiX174 OX=1217068 GN=D PE=1 SV=2
+tr|A0A7L7SSW8|A0A7L7SSW8_BPPHX -          2                    -            1.5e-93  315.6   1.0   1.7e-93  315.4   1.0   1.0   1   0   0   1   1   1   1 External scaffolding protein D OS=Protaetiibacter phage SSC1 OX=2771350 PE=3 SV=1
+tr|Q2LLP5|Q2LLP5_BPPHX         -          2                    -            1.5e-93  315.6   1.0   1.7e-93  315.4   1.0   1.0   1   0   0   1   1   1   1 External scaffolding protein D OS=Enterobacteria phage NC51 OX=338122 GN=D PE=3 SV=1
+tr|Q2LLQ6|Q2LLQ6_BPPHX         -          2                    -            1.5e-93  315.6   1.0   1.7e-93  315.4   1.0   1.0   1   0   0   1   1   1   1 External scaffolding protein D OS=Enterobacteria phage NC41 OX=338121 GN=D PE=3 SV=1
+tr|Q5C8R9|Q5C8R9_9VIRU         -          2                    -            2.6e-91  308.3   0.5   2.8e-91  308.2   0.5   1.0   1   0   0   1   1   1   1 External scaffolding protein D OS=Enterobacteria phage ID11 OX=310953 PE=3 SV=1
+sp|P03638|SCAFD_BPG4           -          2                    -            5.6e-91  307.2   0.3   6.2e-91  307.1   0.3   1.0   1   0   0   1   1   1   1 External scaffolding protein D OS=Escherichia phage G4 OX=10843 GN=D PE=3 SV=1
+tr|A0A4D6DYW2|A0A4D6DYW2_9VIRU -          2                    -            4.9e-88  297.7   0.6   5.4e-88  297.5   0.6   1.0   1   0   0   1   1   1   1 External scaffolding protein D OS=Escherichia phage Lilleput OX=2562232 PE=3 SV=1
+tr|A0A4D6DZ24|A0A4D6DZ24_9VIRU -          2                    -            3.5e-87  294.9   0.6   3.9e-87  294.7   0.6   1.0   1   0   0   1   1   1   1 External scaffolding protein D OS=Escherichia phage Lilleto OX=2562236 PE=3 SV=1
+tr|A0A5C1K534|A0A5C1K534_9VIRU -          2                    -            3.5e-87  294.9   0.6   3.9e-87  294.7   0.6   1.0   1   0   0   1   1   1   1 External scaffolding protein D OS=Escherichia phage Lilledu OX=2604898 PE=3 SV=1
+tr|A0A6B9X0C8|A0A6B9X0C8_9VIRU -          2                    -            3.5e-87  294.9   0.6   3.9e-87  294.7   0.6   1.0   1   0   0   1   1   1   1 External scaffolding protein D OS=Escherichia phage lillemer OX=2696414 GN=lillemer_2 PE=3 SV=1
+tr|A0A345BRR2|A0A345BRR2_9VIRU -          2                    -              1e-54  189.5   0.2   1.1e-54  189.4   0.2   1.0   1   0   0   1   1   1   1 External scaffolding protein D OS=Microviridae sp OX=2202644 PE=3 SV=1
+tr|A0A0C5AG07|A0A0C5AG07_9VIRU -          2                    -            5.2e-09   41.1   0.0   6.2e-09   40.9   0.0   1.1   1   0   0   1   1   1   1 External scaffolding protein D OS=Eel River basin pequenovirus OX=1609634 PE=3 SV=1
+tr|A0A4Y5TNT3|A0A4Y5TNT3_9CAUD -          2                    -                1.3   13.8   0.0       1.3   13.8   0.0   1.1   1   0   0   1   1   1   0 Lipoprotein OS=Pseudomonas phage vB_PaeP_YA3 OX=2588095 PE=4 SV=1
+tr|A0A5K0U928|A0A5K0U928_9VIRU -          2                    -                3.5   12.5   0.0        11   10.9   0.0   1.8   1   0   0   1   1   1   0 Uncharacterized protein OS=Yasminevirus sp. GU-2018 OX=2420051 GN=YASMINEVIRUS_758 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      Microviridae/HMMER/2.hmm
+# Target file:     ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta
+# Option settings: hmmsearch --tblout Microviridae/HMMER/2.tblout --noali Microviridae/HMMER/2.hmm ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta 
+# Current dir:     /Users/coco/Documents/paper3/PanPhylo/test
+# Date:            Wed Oct 11 21:03:04 2023
+# [ok]

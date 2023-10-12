@@ -1,0 +1,33 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|H9BR38|H9BR38_9NIDO         -          JQ065049_6           -            1.4e-57  196.5   9.1   1.6e-57  196.4   9.1   1.0   1   0   0   1   1   1   1 NS6 protein OS=Common moorhen coronavirus HKU21 OX=1159902 GN=NS6 PE=4 SV=1
+tr|H9BR03|H9BR03_9NIDO         -          JQ065049_6           -            2.5e-06   32.3   0.3   2.8e-06   32.2   0.3   1.1   1   0   0   1   1   1   1 NS6 protein OS=Sparrow coronavirus HKU17 OX=1159906 GN=NS6 PE=4 SV=1
+tr|H9BR20|H9BR20_9NIDO         -          JQ065049_6           -            3.4e-06   31.9   1.6   3.9e-06   31.7   1.6   1.1   1   0   0   1   1   1   1 NS6 protein OS=Night heron coronavirus HKU19 OX=1159904 GN=NS6 PE=4 SV=1
+tr|B6VDY1|B6VDY1_THCOV         -          JQ065049_6           -            9.2e-06   30.5   0.4     1e-05   30.3   0.4   1.1   1   0   0   1   1   1   1 Nonstructural protein OS=Thrush coronavirus HKU12 (isolate Grey-backed thrush/Hong Kong/HKU12-600/2007) OX=572290 GN=NS6 PE=4 SV=1
+tr|A0A0E3Y5V9|A0A0E3Y5V9_9NIDO -          JQ065049_6           -            1.6e-05   29.7   0.1   2.1e-05   29.4   0.1   1.2   1   0   0   1   1   1   1 NS6 OS=Porcine deltacoronavirus OX=1586324 GN=NS6 PE=4 SV=1
+tr|B6VDX2|B6VDX2_9NIDO         -          JQ065049_6           -            0.00016   26.5   0.1   0.00018   26.4   0.1   1.1   1   0   0   1   1   1   1 Nonstructural protein OS=Bulbul coronavirus HKU11-796 OX=572287 GN=NS6 PE=4 SV=1
+tr|H9BR28|H9BR28_9NIDO         -          JQ065049_6           -            0.00077   24.3   0.2   0.00087   24.2   0.2   1.1   1   0   0   1   1   1   1 NS6 protein OS=Wigeon coronavirus HKU20 OX=1159908 GN=NS6 PE=4 SV=1
+tr|A0A4D6FT65|A0A4D6FT65_9GAMC -          JQ065049_6           -              0.068   18.1   1.4     0.092   17.7   1.4   1.2   1   0   0   1   1   1   0 ORF5b OS=Canada goose coronavirus OX=2569586 PE=4 SV=1
+tr|A0A7G3MHV2|A0A7G3MHV2_9CAUD -          JQ065049_6           -               0.17   16.8   1.1       0.3   16.0   1.1   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Streptococcus phage phi-SgaBSJ27_rum OX=2664388 PE=4 SV=1
+tr|A0A4D6FT82|A0A4D6FT82_9GAMC -          JQ065049_6           -                1.1   14.2   2.5       1.3   14.0   2.5   1.2   1   0   0   1   1   1   0 ORF7a OS=Canada goose coronavirus OX=2569586 PE=4 SV=1
+tr|A0A0K2FLR2|A0A0K2FLR2_9CAUD -          JQ065049_6           -                1.2   14.1   0.7        37    9.3   0.0   2.4   2   0   0   2   2   2   0 Putative Ig domain-containing protein OS=Brevibacillus phage Sundance OX=1691958 GN=SUNDANCE_27 PE=4 SV=1
+tr|A0A141HSE5|A0A141HSE5_9CAUD -          JQ065049_6           -                2.3   13.2   0.1         4   12.4   0.1   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Bacillus phage vB_BpuM-BpSp OX=1739968 GN=Bp8pS_254 PE=4 SV=1
+tr|A0A482MHA7|A0A482MHA7_9CAUD -          JQ065049_6           -                2.4   13.1   0.2       4.9   12.1   0.1   1.4   1   1   0   1   1   1   0 Uncharacterized protein OS=Serratia phage Serbin OX=2562181 GN=CPT_Serbin_032 PE=4 SV=1
+tr|G3EIB4|G3EIB4_9POXV         -          JQ065049_6           -                2.7   13.0   7.1       5.8   11.9   0.5   4.0   3   1   0   3   3   3   0 Required for IEV morphogenesis OS=Yokapox virus OX=1076255 GN=YKV036c PE=4 SV=1
+tr|A0A1I9SAK5|A0A1I9SAK5_9CAUD -          JQ065049_6           -                3.3   12.7   0.1       4.9   12.1   0.1   1.5   1   1   0   1   1   1   0 Uncharacterized protein OS=Rhodococcus phage Weasels2 OX=1897437 GN=SEA_WEASELS2_233 PE=4 SV=1
+tr|A0A6B9J5A0|A0A6B9J5A0_9CAUD -          JQ065049_6           -                4.2   12.4   2.1       7.9   11.5   2.1   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Vibrio phage vB_VchM_Kuja OX=2686437 GN=Kuja_1290 PE=4 SV=1
+tr|A0A345MA64|A0A345MA64_9CAUD -          JQ065049_6           -                6.1   11.8   1.2        11   11.0   0.2   1.8   2   0   0   2   2   2   0 KTSC domain-containing protein OS=Streptomyces phage Wollford OX=2283267 GN=250 PE=4 SV=1
+tr|B2CWD5|B2CWD5_9POXV         -          JQ065049_6           -                6.9   11.7  12.8        39    9.2   0.3   4.4   3   1   1   4   4   4   0 M28L OS=Myxoma virus OX=10273 GN=m028L PE=4 SV=1
+tr|Q9Q8R8|Q9Q8R8_MYXVL         -          JQ065049_6           -                6.9   11.7  12.8        39    9.2   0.3   4.4   3   1   1   4   4   4   0 M28L OS=Myxoma virus (strain Lausanne) OX=31530 GN=m028L PE=4 SV=1
+tr|A0A3G3BWB1|A0A3G3BWB1_9CAUD -          JQ065049_6           -                8.2   11.4   1.0   4.9e+02    5.7   0.1   3.4   2   1   2   4   4   4   0 Uncharacterized protein OS=Exiguobacterium phage vB_EalM-132 OX=2419623 GN=EalM132_00070 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      Coronaviridae/HMMER/JQ065049_6.hmm
+# Target file:     ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta
+# Option settings: hmmsearch --tblout Coronaviridae/HMMER/JQ065049_6.tblout --noali Coronaviridae/HMMER/JQ065049_6.hmm ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta 
+# Current dir:     /Users/coco/Documents/paper3/PanPhylo/test
+# Date:            Wed Oct 11 21:57:43 2023
+# [ok]

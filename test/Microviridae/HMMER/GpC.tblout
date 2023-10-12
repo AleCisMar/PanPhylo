@@ -1,0 +1,48 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q2LM89|Q2LM89_9VIRU         -          7                    -            3.3e-49  169.6   6.5   3.6e-49  169.5   6.5   1.0   1   0   0   1   1   1   1 GpC OS=Enterobacteria phage WA13 OX=489828 GN=C PE=4 SV=1
+tr|Q2LM99|Q2LM99_9VIRU         -          7                    -            7.2e-49  168.5   6.6   7.9e-49  168.4   6.6   1.0   1   0   0   1   1   1   1 GpC OS=Escherichia phage NC35 OX=338103 GN=C PE=4 SV=1
+sp|P31279|VGC_BPAL3            -          7                    -            7.7e-49  168.5   6.9   8.4e-49  168.3   6.9   1.0   1   0   0   1   1   1   1 C protein OS=Escherichia phage alpha3 OX=10849 GN=C PE=4 SV=1
+tr|Q2LMB9|Q2LMB9_9VIRU         -          7                    -            3.2e-48  166.5   5.8   3.5e-48  166.4   5.8   1.0   1   0   0   1   1   1   1 GpC OS=Escherichia phage ID21 OX=338101 GN=C PE=4 SV=1
+tr|A0A4D6DYP6|A0A4D6DYP6_9VIRU -          7                    -            6.7e-48  165.4   6.5   7.3e-48  165.3   6.5   1.0   1   0   0   1   1   1   1 DNA maturation protein OS=Escherichia phage Lilleven OX=2562234 PE=4 SV=1
+tr|A0A4D6DYZ0|A0A4D6DYZ0_9VIRU -          7                    -            1.3e-09   42.8   0.2   1.6e-09   42.5   0.2   1.2   1   0   0   1   1   1   1 DNA maturation protein OS=Escherichia phage Lilleto OX=2562236 PE=4 SV=1
+tr|A0A5C1K580|A0A5C1K580_9VIRU -          7                    -            1.3e-09   42.8   0.2   1.6e-09   42.5   0.2   1.2   1   0   0   1   1   1   1 DNA maturation protein OS=Escherichia phage Lilledu OX=2604898 PE=4 SV=1
+tr|A0A4D6DYQ7|A0A4D6DYQ7_9VIRU -          7                    -            4.5e-09   41.0   0.2   5.5e-09   40.8   0.2   1.2   1   0   0   1   1   1   1 DNA maturation protein OS=Escherichia phage Lilleput OX=2562232 PE=4 SV=1
+tr|A0A6B9WY24|A0A6B9WY24_9VIRU -          7                    -            4.6e-09   41.0   0.1   5.8e-09   40.7   0.1   1.2   1   0   0   1   1   1   1 DNA maturation protein OS=Escherichia phage lillemer OX=2696414 GN=lillemer_3 PE=4 SV=1
+tr|Q2LLQ7|Q2LLQ7_BPPHX         -          7                    -            2.8e-08   38.5   0.2   3.4e-08   38.2   0.2   1.1   1   0   0   1   1   1   1 GpC OS=Enterobacteria phage NC41 OX=338121 GN=C PE=4 SV=1
+sp|P69172|C_BPPHS              -          7                    -            2.8e-08   38.5   0.2   3.4e-08   38.2   0.2   1.1   1   0   0   1   1   1   1 Protein C OS=Enterobacteria phage phiX174 OX=1217068 GN=C PE=3 SV=1
+tr|A0A7L7SM12|A0A7L7SM12_BPPHX -          7                    -            2.8e-08   38.5   0.2   3.4e-08   38.2   0.2   1.1   1   0   0   1   1   1   1 DNA packaging protein C OS=Protaetiibacter phage SSC1 OX=2771350 PE=4 SV=1
+tr|Q2LLP6|Q2LLP6_BPPHX         -          7                    -            2.8e-08   38.5   0.2   3.4e-08   38.2   0.2   1.1   1   0   0   1   1   1   1 GpC OS=Enterobacteria phage NC51 OX=338122 GN=C PE=4 SV=1
+sp|P03636|VGC_BPG4             -          7                    -            1.4e-07   36.3   0.5   1.8e-07   35.9   0.5   1.2   1   0   0   1   1   1   1 C protein OS=Escherichia phage G4 OX=10843 GN=C PE=4 SV=1
+tr|A0A1B1J0V5|A0A1B1J0V5_9VIRU -          7                    -            1.3e-06   33.1   0.2   1.7e-06   32.8   0.2   1.2   1   0   0   1   1   1   1 Protein C OS=Enterobacteria phage ID11 OX=310953 PE=4 SV=1
+tr|M1HNQ5|M1HNQ5_BPS16         -          7                    -               0.49   15.3   0.0       0.7   14.8   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Salmonella phage S16 OX=1087482 PE=4 SV=1
+tr|A0A3S9UCE0|A0A3S9UCE0_9CAUD -          7                    -               0.78   14.6   0.0       1.7   13.5   0.0   1.5   1   0   0   1   1   1   0 RecA-like DNA recombinase OS=Gordonia phage Gray OX=2499024 GN=103 PE=3 SV=1
+tr|A0A4D6BF68|A0A4D6BF68_9CAUD -          7                    -                  2   13.3   0.7       2.8   12.9   0.7   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Streptococcus phage Javan628 OX=2548287 GN=Javan628_0012 PE=4 SV=1
+tr|S5YK13|S5YK13_9CAUD         -          7                    -                2.1   13.2   0.3        16   10.4   0.0   2.0   2   0   0   2   2   2   0 Minor tail protein OS=Mycobacterium phage Wanda OX=1340713 GN=74 PE=4 SV=1
+tr|A0A142IDP4|A0A142IDP4_9CAUD -          7                    -                2.4   13.1   0.2       4.1   12.3   0.2   1.5   1   0   0   1   1   1   0 Putative DNA binding protein OS=Pseudomonas phage vB_PsyM_KIL1 OX=1777065 GN=vB_PsyM_KIL1_0102 PE=4 SV=1
+tr|A0A142IE53|A0A142IE53_9CAUD -          7                    -                2.5   13.0   0.2       4.2   12.3   0.2   1.5   1   0   0   1   1   1   0 Putative DNA binding protein OS=Pseudomonas phage vB_PsyM_KIL2 OX=1777066 GN=vB_PsyM_KIL2_0108 PE=4 SV=1
+tr|A0A2Z5HD38|A0A2Z5HD38_9CAUD -          7                    -                2.5   13.0   0.1       6.9   11.6   0.1   1.7   1   0   0   1   1   1   0 Portal protein OS=Microbacterium phage Jacko OX=2250370 GN=36 PE=4 SV=1
+tr|A0A5C1K6V9|A0A5C1K6V9_9CAUD -          7                    -                2.6   13.0   0.0       4.6   12.2   0.0   1.4   1   0   0   1   1   1   0 Minor tail protein OS=Gordonia phage Boopy OX=2590875 GN=105 PE=4 SV=1
+tr|A0A650EZI8|A0A650EZI8_9CAUD -          7                    -                2.6   13.0   0.0       4.6   12.2   0.0   1.4   1   0   0   1   1   1   0 Minor tail protein OS=Gordonia phage Forza OX=2571247 GN=105 PE=4 SV=1
+tr|A0A192YC08|A0A192YC08_9CAUD -          7                    -                2.7   12.9   0.0       3.7   12.5   0.0   1.3   1   1   0   1   1   1   0 Uncharacterized protein OS=Morganella phage vB_MmoP_MP2 OX=1852627 GN=MP2_gp25A PE=4 SV=1
+tr|G8I5C6|G8I5C6_9CAUD         -          7                    -                2.8   12.9   0.3         8   11.4   0.0   1.8   2   0   0   2   2   2   0 Uncharacterized protein OS=Mycobacterium phage Courthouse OX=2923000 GN=69 PE=4 SV=1
+tr|G8DE20|G8DE20_9PHYC         -          7                    -                3.1   12.7   0.7       8.1   11.4   0.1   2.0   2   0   0   2   2   2   0 HNH nuclease domain-containing protein OS=Phaeocystis globosa virus 14T OX=755274 GN=PGBG_00032 PE=4 SV=1
+tr|G8DHG1|G8DHG1_9PHYC         -          7                    -                3.1   12.7   0.7       8.1   11.4   0.1   2.0   2   0   0   2   2   2   0 HNH nuclease domain-containing protein OS=Phaeocystis globosa virus 12T OX=755273 GN=PGAG_00031 PE=4 SV=1
+tr|S5WL62|S5WL62_9CAUD         -          7                    -                3.1   12.7   0.3        17   10.4   0.0   1.9   2   0   0   2   2   2   0 Uncharacterized protein OS=Mycobacterium phage Redno2 OX=1340709 GN=67 PE=4 SV=1
+tr|Q5IGW9|Q5IGW9_9CAUD         -          7                    -                3.1   12.7   0.5       8.2   11.4   0.1   2.0   2   0   0   2   2   1   0 HNH endonuclease OS=Salmonella phage SS3e OX=293644 PE=4 SV=2
+tr|A0A3G1E3F3|A0A3G1E3F3_9CAUD -          7                    -                3.5   12.6   0.6        16   10.4   0.3   2.2   2   0   0   2   2   2   0 Uncharacterized protein OS=Clostridium phage CDKM15 OX=1868595 GN=CDKM15_12 PE=4 SV=1
+tr|A0A649VMS7|A0A649VMS7_9CAUD -          7                    -                3.5   12.6   0.6        12   10.8   0.0   1.9   2   0   0   2   2   2   0 Uncharacterized protein OS=Mycobacterium phage Hannaconda OX=2656580 GN=66 PE=4 SV=1
+tr|Q854J0|Q854J0_BPMOM         -          7                    -                3.9   12.4   0.6        13   10.7   0.0   1.9   2   0   0   2   2   2   0 Uncharacterized protein OS=Mycobacterium phage Omega OX=2907835 GN=74 PE=4 SV=1
+tr|A0A8E7FP53|A0A8E7FP53_9CAUD -          7                    -                4.6   12.2   0.0       6.4   11.7   0.0   1.2   1   0   0   1   1   1   0 DNA polymerase OS=Bacillus phage SWEP1 OX=2834254 PE=4 SV=1
+tr|A0A076YMT6|A0A076YMT6_9CAUD -          7                    -                5.1   12.0   0.3        36    9.3   0.0   2.0   2   0   0   2   2   2   0 Minor tail protein OS=Mycobacterium phage Minerva OX=1527513 GN=76 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      Microviridae/HMMER/7.hmm
+# Target file:     ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta
+# Option settings: hmmsearch --tblout Microviridae/HMMER/7.tblout --noali Microviridae/HMMER/7.hmm ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta 
+# Current dir:     /Users/coco/Documents/paper3/PanPhylo/test
+# Date:            Wed Oct 11 21:03:09 2023
+# [ok]

@@ -1,0 +1,22 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P0DTC8|NS8_SARS2            -          47                   -            3.6e-84  283.7   2.3     4e-84  283.6   2.3   1.0   1   0   0   1   1   1   1 ORF8 protein OS=Severe acute respiratory syndrome coronavirus 2 OX=2697049 GN=8 PE=1 SV=1
+tr|A0A023PSW4|A0A023PSW4_SARS  -          47                   -            6.4e-52  179.6   0.9   7.1e-52  179.5   0.9   1.0   1   0   0   1   1   1   1 Protein 10b OS=Rhinolophus affinis coronavirus OX=1487703 PE=4 SV=1
+tr|A0A0U1UYX9|A0A0U1UYX9_SARS  -          47                   -            1.7e-09   42.7   1.5   3.7e-09   41.6   1.5   1.6   1   1   0   1   1   1   1 SARS ORF8 Ig-like domain-containing protein OS=BtRf-BetaCoV/HeB2013 OX=1503296 PE=4 SV=1
+sp|Q80H93|NS8B_SARS            -          47                   -              0.016   20.2   0.0     0.019   19.9   0.0   1.2   1   0   0   1   1   1   0 ORF8b protein OS=Severe acute respiratory syndrome coronavirus OX=694009 GN=8b PE=1 SV=1
+sp|Q7TFA0|NS8A_SARS            -          47                   -               0.25   16.3   1.8      0.26   16.3   1.8   1.0   1   0   0   1   1   1   0 ORF8a protein OS=Severe acute respiratory syndrome coronavirus OX=694009 GN=8a PE=3 SV=1
+tr|I3PV34|I3PV34_9CAUD         -          47                   -                1.9   13.5   0.0       2.7   13.0   0.0   1.3   1   0   0   1   1   1   0 DUF3310 domain-containing protein OS=Clostridium phage phiCPV4 OX=1162305 GN=phiCPV4_004 PE=4 SV=1
+tr|A0A2K9VCA1|A0A2K9VCA1_9CAUD -          47                   -                2.1   13.3   0.1       2.5   13.1   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Lactobacillus phage Nyseid OX=2079432 PE=4 SV=1
+tr|G3BLM2|G3BLM2_9CAUD         -          47                   -                3.8   12.5   0.0       4.5   12.3   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein 6 OS=Salmonella phage PVPSE1 OX=889338 GN=6 PE=4 SV=1
+tr|K4I3I0|K4I3I0_9CAUD         -          47                   -                3.8   12.5   0.0       4.5   12.3   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Salmonella phage SSE121 OX=1204529 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      Coronaviridae/HMMER/47.hmm
+# Target file:     ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta
+# Option settings: hmmsearch --tblout Coronaviridae/HMMER/47.tblout --noali Coronaviridae/HMMER/47.hmm ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta 
+# Current dir:     /Users/coco/Documents/paper3/PanPhylo/test
+# Date:            Wed Oct 11 21:56:17 2023
+# [ok]

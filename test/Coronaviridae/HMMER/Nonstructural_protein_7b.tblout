@@ -1,0 +1,20 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|D9J210|D9J210_9ALPC         -          HM245925_9           -           2.7e-141  472.9   0.6    3e-141  472.8   0.6   1.0   1   0   0   1   1   1   1 Non-structural protein 7b OS=Mink coronavirus strain WD1133 OX=766792 PE=4 SV=1
+tr|A0A172B8D1|A0A172B8D1_9ALPC -          HM245925_9           -            5.9e-52  181.2   1.1   6.8e-52  181.0   1.1   1.0   1   0   0   1   1   1   1 Non-structural protein 7b OS=Ferret coronavirus OX=1264898 GN=orf7b PE=4 SV=1
+sp|P19743|NS7B_FIPV            -          HM245925_9           -            2.7e-43  152.9   1.6   2.8e-43  152.9   1.6   1.0   1   0   0   1   1   1   1 Non-structural protein 7b OS=Feline coronavirus (strain FIPV WSU-79/1146) OX=33734 GN=7b PE=2 SV=1
+tr|C6GHC3|C6GHC3_9ALPC         -          HM245925_9           -              9e-41  144.7   1.4   9.8e-41  144.6   1.4   1.0   1   0   0   1   1   1   1 Non-structural protein 7b OS=Feline coronavirus UU4 OX=454952 PE=4 SV=1
+tr|G8DDH6|G8DDH6_9PHYC         -          HM245925_9           -              0.055   18.0   0.1        76    7.8   0.0   3.5   3   0   0   3   3   3   0 F5/8 type C domain-containing protein OS=Micromonas pusilla virus PL1 OX=373997 GN=MPWG_00195 PE=4 SV=1
+tr|A0A096VKH2|A0A096VKH2_9CAUD -          HM245925_9           -                2.8   12.5   0.0       3.3   12.2   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Synechococcus phage S-CBP1 OX=1273711 GN=S-CBP1_0048 PE=4 SV=1
+tr|A0A874MA79|A0A874MA79_9CAUD -          HM245925_9           -                4.1   11.9   0.0       4.9   11.6   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Synechococcus phage S-SRP01 OX=2781607 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      Coronaviridae/HMMER/HM245925_9.hmm
+# Target file:     ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta
+# Option settings: hmmsearch --tblout Coronaviridae/HMMER/HM245925_9.tblout --noali Coronaviridae/HMMER/HM245925_9.hmm ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta 
+# Current dir:     /Users/coco/Documents/paper3/PanPhylo/test
+# Date:            Wed Oct 11 21:57:44 2023
+# [ok]

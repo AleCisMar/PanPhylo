@@ -1,0 +1,30 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A3EXF8|A3EXF8_BCHK5         -          17                   -            3.2e-41  144.0   0.0   3.9e-41  143.8   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein NS3a OS=Bat coronavirus HKU5-5 OX=424366 GN=NS3a PE=4 SV=1
+sp|A3EXD1|NS3A_BCHK5           -          17                   -            3.3e-41  144.0   0.0     4e-41  143.8   0.0   1.1   1   0   0   1   1   1   1 Non-structural protein 3a OS=Bat coronavirus HKU5 OX=694008 GN=3a PE=3 SV=1
+sp|A3EX95|NS3A_BCHK4           -          17                   -            3.4e-41  144.0   0.1   3.7e-41  143.9   0.1   1.0   1   0   0   1   1   1   1 Non-structural protein 3a OS=Bat coronavirus HKU4 OX=694007 GN=3a PE=3 SV=1
+tr|A3EXA4|A3EXA4_BCHK4         -          17                   -            3.4e-41  144.0   0.1   3.7e-41  143.9   0.1   1.0   1   0   0   1   1   1   1 Uncharacterized protein NS3a OS=Bat coronavirus HKU4-2 OX=424360 GN=NS3a PE=4 SV=1
+tr|R9UNX1|R9UNX1_MERS          -          17                   -            2.2e-40  141.4   0.1   2.4e-40  141.3   0.1   1.0   1   0   0   1   1   1   1 ORF3 OS=Middle East respiratory syndrome-related coronavirus OX=1335626 PE=4 SV=1
+tr|A0A0U1WHL7|A0A0U1WHL7_BCHK4 -          17                   -            2.3e-40  141.3   0.3   2.5e-40  141.2   0.3   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=BtTp-BetaCoV/GX2012 OX=1503304 PE=4 SV=1
+sp|K9N796|ORF3_MERS1           -          17                   -            2.4e-40  141.3   0.1   2.6e-40  141.1   0.1   1.0   1   0   0   1   1   1   1 Non-structural protein ORF3 OS=Middle East respiratory syndrome-related coronavirus (isolate United Kingdom/H123990006/2012) OX=1263720 GN=ORF3 PE=3 SV=1
+tr|U5NJP4|U5NJP4_MERS          -          17                   -              4e-35  124.5   0.1   4.5e-35  124.3   0.1   1.0   1   0   0   1   1   1   1 ORF3 protein OS=Coronavirus Neoromicia/PML-PHE1/RSA/2011 OX=1368314 GN=ORF3 PE=4 SV=2
+tr|U5LML5|U5LML5_9BETC         -          17                   -            1.3e-33  119.6   0.2   1.5e-33  119.4   0.2   1.0   1   0   0   1   1   1   1 ORF 3a OS=Betacoronavirus Erinaceus/VMC/DEU/2012 OX=1385427 GN=ORF 3a PE=4 SV=1
+tr|A0A0S2MU06|A0A0S2MU06_9CAUD -          17                   -                2.7   12.9   0.0       4.8   12.1   0.0   1.4   1   0   0   1   1   1   0 Holliday junction resolvase RuvC OS=Streptomyces phage phiSAJS1 OX=1755682 PE=4 SV=1
+tr|B7TQN9|B7TQN9_9PAPI         -          17                   -                  3   12.7   0.0         8   11.4   0.0   1.7   1   0   0   1   1   1   0 Replication protein E1 OS=Erinaceus europaeus papillomavirus 1 OX=445217 GN=E1 PE=3 SV=1
+tr|E5AG02|E5AG02_9CAUD         -          17                   -                4.1   12.3   0.9        20   10.1   0.1   2.5   3   0   0   3   3   3   0 Putative proximal tail fiber OS=Erwinia phage phiEa104 OX=925986 GN=P104_00710 PE=4 SV=1
+tr|A0A191ULP4|A0A191ULP4_9ADEN -          17                   -                4.4   12.2   0.1       4.4   12.2   0.1   1.7   2   0   0   2   2   1   0 ORF23 OS=Fowl aviadenovirus 3 OX=172860 PE=4 SV=1
+tr|A0A7S5RI57|A0A7S5RI57_9CAUD -          17                   -                4.9   12.0   0.3        12   10.9   0.3   1.6   1   0   0   1   1   1   0 Pectin lyase fold domain-containing protein OS=Rhizobium phage RHph_N3_8 OX=2509748 GN=EVC23_022 PE=4 SV=1
+tr|K7NTK4|K7NTK4_9CAUD         -          17                   -                  5   12.0   0.3        18   10.3   0.3   1.9   1   0   0   1   1   1   0 Uncharacterized protein OS=Klebsiella phage KP27 OX=1129147 GN=KP27_211 PE=4 SV=1
+tr|A0A7H0XA48|A0A7H0XA48_9CAUD -          17                   -                5.3   11.9   0.0         7   11.5   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Xanthomonas phage Xoo-sp14 OX=2769337 GN=Xoosp14_36 PE=4 SV=1
+tr|A0A7U3WDX8|A0A7U3WDX8_9CAUD -          17                   -                6.1   11.7   0.2       6.7   11.6   0.2   1.1   1   0   0   1   1   1   0 Lipoprotein OS=Providencia phage PSTRCR_117lys OX=2800825 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      Coronaviridae/HMMER/17.hmm
+# Target file:     ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta
+# Option settings: hmmsearch --tblout Coronaviridae/HMMER/17.tblout --noali Coronaviridae/HMMER/17.hmm ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta 
+# Current dir:     /Users/coco/Documents/paper3/PanPhylo/test
+# Date:            Wed Oct 11 21:57:49 2023
+# [ok]

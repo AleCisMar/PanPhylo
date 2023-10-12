@@ -1,0 +1,23 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|B2BW34|B2BW34_BWCOV         -          41                   -            7.4e-64  216.8   0.9   8.1e-64  216.6   0.9   1.0   1   0   0   1   1   1   1 Small membrane protein OS=Beluga whale coronavirus (strain SW1) OX=694015 PE=4 SV=1
+tr|Q9J4A7|Q9J4A7_9GAMC         -          41                   -            3.3e-13   54.5   0.3   4.9e-13   53.9   0.2   1.3   1   1   0   1   1   1   1 Envelope small membrane protein OS=Infectious bronchitis virus OX=11120 GN=3c PE=3 SV=1
+sp|Q89894|VEMP_IBVB            -          41                   -            1.1e-12   52.8   0.1   1.3e-12   52.5   0.1   1.1   1   0   0   1   1   1   1 Envelope small membrane protein OS=Avian infectious bronchitis virus (strain Beaudette) OX=11122 GN=E PE=1 SV=1
+tr|A0A0F6YSL8|A0A0F6YSL8_9GAMC -          41                   -            3.1e-12   51.4   0.1   3.9e-12   51.0   0.1   1.0   1   0   0   1   1   1   1 Envelope small membrane protein OS=Duck coronavirus OX=300188 GN=3c PE=3 SV=1
+tr|A0A4D6FUX7|A0A4D6FUX7_9GAMC -          41                   -            9.6e-10   43.4   0.1   1.1e-09   43.2   0.1   1.0   1   0   0   1   1   1   1 Envelope protein OS=Canada goose coronavirus OX=2569586 PE=4 SV=1
+tr|A0A076FFM0|A0A076FFM0_9PHYC -          41                   -               0.44   15.6   0.2   2.5e+02    6.8   0.0   2.9   2   1   1   3   3   3   0 Uncharacterized protein OS=Aureococcus anophagefferens virus OX=1474867 GN=AaV_239 PE=4 SV=1
+tr|Q9YVX8|Q9YVX8_MSEPV         -          41                   -               0.75   14.9   0.1      0.84   14.7   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Melanoplus sanguinipes entomopoxvirus OX=83191 GN=MSV114 PE=4 SV=1
+tr|A0A076YKV9|A0A076YKV9_9CAUD -          41                   -                  1   14.4   0.3       1.1   14.3   0.3   1.1   1   0   0   1   1   1   0 Transmembrane protein OS=Rhizobium phage vB_RleM_P10VF OX=1527770 GN=P10VF_189 PE=4 SV=1
+tr|A0A7G7WXR6|A0A7G7WXR6_9CAUD -          41                   -                1.1   14.4   0.3       1.2   14.2   0.3   1.1   1   0   0   1   1   1   0 Transmembrane protein OS=Rhizobium phage P9VFCI OX=2763531 GN=P9VFCI_104 PE=4 SV=1
+tr|A0A249XU53|A0A249XU53_9CAUD -          41                   -                5.2   12.2   0.0       8.7   11.4   0.0   1.4   1   1   0   1   1   1   0 Uncharacterized protein OS=Mycobacterium phage Kimona OX=2024295 GN=83 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      Coronaviridae/HMMER/41.hmm
+# Target file:     ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta
+# Option settings: hmmsearch --tblout Coronaviridae/HMMER/41.tblout --noali Coronaviridae/HMMER/41.hmm ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta 
+# Current dir:     /Users/coco/Documents/paper3/PanPhylo/test
+# Date:            Wed Oct 11 21:57:00 2023
+# [ok]

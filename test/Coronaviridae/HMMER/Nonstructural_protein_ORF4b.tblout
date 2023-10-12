@@ -1,0 +1,33 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|A3EXD3|ORF4B_BCHK5          -          18                   -           2.6e-120  405.2   0.1    3e-120  405.1   0.1   1.0   1   0   0   1   1   1   1 Non-structural protein ORF4b OS=Bat coronavirus HKU5 OX=694008 GN=ORF4b PE=1 SV=1
+tr|A3EXG0|A3EXG0_BCHK5         -          18                   -           2.8e-120  405.2   0.1  3.2e-120  405.0   0.1   1.0   1   0   0   1   1   1   1 Uncharacterized protein NS3c OS=Bat coronavirus HKU5-5 OX=424366 GN=NS3c PE=4 SV=1
+sp|A3EX97|ORF4B_BCHK4          -          18                   -           8.7e-119  400.3   0.0    1e-118  400.1   0.0   1.0   1   0   0   1   1   1   1 Non-structural protein ORF4b OS=Bat coronavirus HKU4 OX=694007 GN=ORF4b PE=3 SV=1
+tr|A3EXA6|A3EXA6_BCHK4         -          18                   -           8.7e-119  400.3   0.0    1e-118  400.1   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein NS3c OS=Bat coronavirus HKU4-2 OX=424360 GN=NS3c PE=4 SV=1
+tr|A0A0U1UZF9|A0A0U1UZF9_BCHK4 -          18                   -             4e-115  388.3   0.0  4.5e-115  388.1   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=BtTp-BetaCoV/GX2012 OX=1503304 PE=4 SV=1
+sp|K9N643|ORF4B_MERS1          -          18                   -            2.3e-99  336.7   1.3   2.8e-99  336.4   1.3   1.0   1   0   0   1   1   1   1 Non-structural protein ORF4b OS=Middle East respiratory syndrome-related coronavirus (isolate United Kingdom/H123990006/2012) OX=1263720 GN=ORF4b PE=1 SV=1
+tr|R9UQP3|R9UQP3_MERS          -          18                   -            2.3e-99  336.7   1.3   2.8e-99  336.4   1.3   1.0   1   0   0   1   1   1   1 NS3C protein OS=Middle East respiratory syndrome-related coronavirus OX=1335626 GN=orf4b PE=4 SV=1
+tr|U5LR17|U5LR17_9BETC         -          18                   -            1.7e-91  310.9   0.6   1.9e-91  310.7   0.6   1.0   1   0   0   1   1   1   1 Orf4b OS=Betacoronavirus Erinaceus/VMC/DEU/2012 OX=1385427 GN=orf4b PE=4 SV=1
+tr|A0A075Q6G7|A0A075Q6G7_MERS  -          18                   -              3e-89  303.5   0.5   3.5e-89  303.3   0.5   1.0   1   0   0   1   1   1   1 ORF4b protein OS=Coronavirus Neoromicia/PML-PHE1/RSA/2011 OX=1368314 GN=ORF4b PE=4 SV=1
+tr|A0A7M1RVG1|A0A7M1RVG1_9CAUD -          18                   -               0.73   14.0   0.1      0.82   13.8   0.1   1.1   1   0   0   1   1   1   0 Phage protein OS=uncultured phage cr118_1 OX=2772063 PE=4 SV=1
+tr|A0A2U8UN14|A0A2U8UN14_9CAUD -          18                   -                3.9   11.6   0.0       4.5   11.4   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Mycobacterium phage Byougenkin OX=2182394 GN=67 PE=4 SV=1
+sp|Q89892|VL2_COPV6            -          18                   -                4.1   11.5   0.1       6.2   10.9   0.1   1.2   1   0   0   1   1   1   0 Minor capsid protein L2 OS=Canine oral papillomavirus (strain Y62) OX=766192 GN=L2 PE=3 SV=1
+tr|S5Z4Q9|S5Z4Q9_9CAUD         -          18                   -                4.9   11.3   0.0         6   11.0   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Mycobacterium phage Hamulus OX=1340824 GN=67 PE=4 SV=1
+tr|A0A6G9LDU0|A0A6G9LDU0_9CAUD -          18                   -                  5   11.2   0.0       5.8   11.0   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Mycobacterium phage Phanphagia OX=2719206 GN=64 PE=4 SV=1
+tr|Q6UYJ7|Q6UYJ7_9CAUD         -          18                   -                  5   11.2   0.0       5.4   11.1   0.0   1.0   1   0   0   1   1   1   0 Conserved tail assembly protein OS=Burkholderia phage BcepNazgul OX=242861 GN=Nazgul44 PE=4 SV=1
+tr|A0A889IS05|A0A889IS05_9CAUD -          18                   -                5.1   11.2   0.0       6.5   10.9   0.0   1.1   1   0   0   1   1   1   0 Tail assembly chaperone OS=Nocardia phage NC1 OX=2805752 PE=4 SV=1
+tr|A0A2S1PC50|A0A2S1PC50_9CAUD -          18                   -                7.3   10.7   0.0       8.9   10.4   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Mycobacterium phage Melissauren88 OX=2163593 GN=66 PE=4 SV=1
+tr|A0A0H4TF62|A0A0H4TF62_9CAUD -          18                   -                7.4   10.7   0.0       9.1   10.4   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Mycobacterium phage Ovechkin OX=1673889 GN=PBI_OVECHKIN_68 PE=4 SV=1
+tr|A0A0K2FP80|A0A0K2FP80_9CAUD -          18                   -                7.4   10.7   0.0       9.1   10.4   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Mycobacterium phage Seagreen OX=1698713 GN=SEAGREEN_67 PE=4 SV=1
+tr|A0A6B9LUC8|A0A6B9LUC8_9CAUD -          18                   -                7.5   10.7   0.0       9.1   10.4   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Mycobacterium phage Hegedechwinu OX=2686469 GN=70 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      Coronaviridae/HMMER/18.hmm
+# Target file:     ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta
+# Option settings: hmmsearch --tblout Coronaviridae/HMMER/18.tblout --noali Coronaviridae/HMMER/18.hmm ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta 
+# Current dir:     /Users/coco/Documents/paper3/PanPhylo/test
+# Date:            Wed Oct 11 21:54:44 2023
+# [ok]

@@ -1,0 +1,20 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A4D6FTP0|A0A4D6FTP0_9GAMC -          MK359255_8           -            7.3e-52  177.9   0.1     8e-52  177.8   0.1   1.0   1   0   0   1   1   1   1 ORF7b OS=Canada goose coronavirus OX=2569586 PE=4 SV=1
+tr|A0A6M3YKM5|A0A6M3YKM5_9CAUD -          MK359255_8           -                  2   13.1   0.0        54    8.6   0.0   2.1   2   0   0   2   2   2   0 Methyltransferase type 11 domain-containing protein OS=Cronobacter phage JC01 OX=2729575 PE=4 SV=1
+tr|Q4A2M4|Q4A2M4_EHV8U         -          MK359255_8           -                4.8   11.9   0.0        10   10.9   0.0   1.5   1   1   0   2   2   2   0 Uncharacterized protein OS=Emiliania huxleyi virus 86 (isolate United Kingdom/English Channel/1999) OX=654925 GN=EhV258 PE=4 SV=1
+tr|A0A482CYQ4|A0A482CYQ4_9CAUD -          MK359255_8           -                  5   11.9   0.0        11   10.8   0.0   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Exiguobacterium phage vB_EauM-23 OX=2546569 GN=EauM23_00036 PE=4 SV=1
+tr|G3GPV9|G3GPV9_9PHYC         -          MK359255_8           -                  6   11.6   0.0         9   11.1   0.0   1.4   1   1   0   1   1   1   0 Uncharacterized protein OS=Emiliania huxleyi virus 203 OX=181212 GN=ELVG_00304 PE=4 SV=1
+tr|G4YDF0|G4YDF0_9PHYC         -          MK359255_8           -                  6   11.6   0.0         9   11.1   0.0   1.4   1   1   0   1   1   1   0 Uncharacterized protein OS=Emiliania huxleyi virus 208 OX=181215 GN=ERVG_00294 PE=4 SV=1
+tr|G9E477|G9E477_9PHYC         -          MK359255_8           -                  6   11.6   0.0         9   11.1   0.0   1.4   1   1   0   1   1   1   0 Uncharacterized protein OS=Emiliania huxleyi virus 201 OX=181210 GN=EPVG_00322 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      Coronaviridae/HMMER/MK359255_8.hmm
+# Target file:     ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta
+# Option settings: hmmsearch --tblout Coronaviridae/HMMER/MK359255_8.tblout --noali Coronaviridae/HMMER/MK359255_8.hmm ../db/uniprotkb_taxonomy_name_Viruses_AND_key_2023_09_21.fasta 
+# Current dir:     /Users/coco/Documents/paper3/PanPhylo/test
+# Date:            Wed Oct 11 21:56:20 2023
+# [ok]
