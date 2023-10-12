@@ -48,7 +48,7 @@ conda activate PanPhylo
 Example:
 ```{bash, eval=FALSE, echo=TRUE}
 conda install biopython=1.78
-
+```
 ### Download the databases
 The VMR complete genomes database is available at https://github.com/AleCisMar/VirTaK/blob/master/db/VMR_MSL38_v1_complete_genomes.fasta. For updating the database see build_kmer_database.py in https://github.com/AleCisMar/VirTaK
 
