@@ -50,7 +50,7 @@ Example:
 conda install biopython=1.78
 ```
 ### Download the databases
-The VMR complete genomes database is available at https://github.com/AleCisMar/VirTaK/blob/master/db/VMR_MSL38_v1_complete_genomes.fasta. For updating the database see build_kmer_database.py in https://github.com/AleCisMar/VirTaK
+The VMR complete genomes database is available at https://drive.google.com/file/d/1C-zm-d9eTlarlSKQ_19eQTm-V7m_SNh_/view?usp=sharing. For updating the database see build_kmer_database.py in https://github.com/AleCisMar/VirTaK
 
 The reference database for annotating PCs can be downloaded from https://www.uniprot.org/uniprotkb/?query=taxonomy%5Fname:%22Viruses%22+AND+keyword:%22Reference%20proteome%22
 
